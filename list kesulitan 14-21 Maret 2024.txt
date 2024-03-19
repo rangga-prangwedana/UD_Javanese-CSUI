@@ -1,0 +1,52 @@
+sent_id = wedhawati-2001-2
+# text = Ing wayah sore biasane Siti sinau, kangmase maca koran, lan adhine dolan neng pekarangan.
+Siti > siti (dari UD_Indonesian lemma nama menjadi huruf kecil)
+
+
+
+
+
+
+List kata-kata rancu dan sulit:
+wedhawati-2001-3  : nglangi > langi
+wedhawati-2001-4  : ngendikakake > ngendika / endika / andika, mbarep > barep, 
+wedhawati-2001-5  : kawruh (ilmu, ngelmu, pengetahuan) > kawruh / weruh (melihat), nyebabake > sabab / sebab, anggone > anggon (tempat) / anggo (memakai)
+wedhawati-2001-9  : neng > ing
+wedhawati-2001-11 : dheweke > dhewe / dhewek, neng > ing
+wedhawati-2001-12 : neng > ing
+wedhawati-2001-17 : neng > ing, kebribinen > ??? (bribin)
+wedhawati-2001-18 : mamit-mawut > mawut / awut
+wedhawati-2001-20 : wenehana > weh / aweh / weneh
+wedhawati-2001-22 : rak > ora / ra
+wedhawati-2001-29 : dheweke > dhewe / dhewek
+wedhawati-2001-30 : durung > urung / durung
+wedhawati-2001-31 : mbok > bok / mbok, mengko > engko / mengko
+wedhawati-2001-32 : mbok > bok / mbok, mengko > engko / mengko, gawean > gawe / gawean
+wedhawati-2001-33 : mbok > bok / mbok
+wedhawati-2001-34 : mbok > bok / mbok
+wedhawati-2001-35 : dheweke > dhewe / dhewek
+wedhawati-2001-36 : adhik > adhi / adhik
+wedhawati-2001-37 : adhik > adhi / adhik
+wedhawati-2001-40 : yu > yu / mbakyu
+wedhawati-2001-47 : neng > ing, penjahit > jahit
+wedhawati-2001-48 : wenwehi > weh / aweh / weneh
+wedhawati-2001-49 : tak (prefiks) > dak / tak
+wedhawati-2001-50 : tak (prefiks) > dak / tak
+wedhawati-2001-51 : tak (prefiks) > dak / tak
+wedhawati-2001-52 : kok > ko / kok
+wedhawati-2001-53 : kok > ko / kok
+wedhawati-2001-57 : kalenggahake > lenggah / lungguh / linggih, neng > ing
+wedhawati-2001-60 : dheweke > dhewe / dhewek
+wedhawati-2001-61 : kawruh (ilmu, ngelmu, pengetahuan) > kawruh / weruh (melihat)
+wedhawati-2001-62 : panyarta > serta / panyarta
+wedhawati-2001-64 : saduninge (sebelum) > ??? durung? saduning?, dheweke > dhewe
+wedhawati-2001-65 : dheweke > dhewe
+wedhawati-2001-66 : kawruh (ilmu, ngelmu, pengetahuan) > kawruh / weruh (melihat)
+wedhawati-2001-67 : nginum > minum / inum, kasarasaning > saras / waras
+wedhawati-2001-68 : linambaran > linambaran? (artinya didasari)
+wedhawati-2001-70 : dheweke > dhewe
+wedhawati-2001-73 : dheweke > dhewe
+wedhawati-2001-83 : klemak-klemek > klemak-klemek
+wedhawati-2001-84 : rowak-rawek > suwek / rowak-rawek, neng > ing
+wedhawati-2001-86 : ngajar > ajar / kapok (artinya menghajar)
+
