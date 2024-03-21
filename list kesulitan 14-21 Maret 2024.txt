@@ -40,13 +40,23 @@ wedhawati-2001-60 : dheweke > dhewe / dhewek
 wedhawati-2001-61 : kawruh (ilmu, ngelmu, pengetahuan) > kawruh / weruh (melihat)
 wedhawati-2001-62 : panyarta > serta / panyarta
 wedhawati-2001-64 : saduninge (sebelum) > ??? durung? saduning?, dheweke > dhewe
-wedhawati-2001-65 : dheweke > dhewe
+wedhawati-2001-65 : dheweke > dhewe / dhewek
 wedhawati-2001-66 : kawruh (ilmu, ngelmu, pengetahuan) > kawruh / weruh (melihat)
 wedhawati-2001-67 : nginum > minum / inum, kasarasaning > saras / waras
 wedhawati-2001-68 : linambaran > linambaran? (artinya didasari)
-wedhawati-2001-70 : dheweke > dhewe
-wedhawati-2001-73 : dheweke > dhewe
+wedhawati-2001-70 : dheweke > dhewe / dhewek
+wedhawati-2001-73 : dheweke > dhewe / dhewek
 wedhawati-2001-83 : klemak-klemek > klemak-klemek
 wedhawati-2001-84 : rowak-rawek > suwek / rowak-rawek, neng > ing
 wedhawati-2001-86 : ngajar > ajar / kapok (artinya menghajar)
+wedhawati-2001-90 : dilebokake > lebu / mlebu
+wedhawati-2001-91 : dheweke > dhewe / dhewek
+wedhawati-2001-96 : dheweke > dhewe / dhewek
+suwadji-2013-2    : anggitan > anggit / anggitan
+suwadji-2013-3    : awit > kawit / awit, jawi > jawi / jawa
+suwadji-2013-4    : jawi > jawi / jawa
+suwadji-2013-13   : mretelakake > pretel
+suwadji-2013-18   : dheweke > dhewe / dhewek
+suwadji-2013-19   : aweh > weh / aweh
+opus-wiki-1       : didhewekake, dheweke > dhewe / dhewek
 
