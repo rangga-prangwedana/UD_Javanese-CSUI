@@ -1,10 +1,12 @@
-sent_id = wedhawati-2001-2
+# sent_id = wedhawati-2001-2
 # text = Ing wayah sore biasane Siti sinau, kangmase maca koran, lan adhine dolan neng pekarangan.
-Siti > siti (dari UD_Indonesian lemma nama menjadi huruf kecil)
+# Siti > siti (dari UD_Indonesian lemma nama menjadi huruf kecil)
 
+Legenda:: {sentence_id}: {kata pada kalimat} > {lemma1} / {lemma2} / ... / {lemmaN}
+Tanda (>) dibaca menjadi
 
-
-
+Contoh: nglangi > langi berarti hanya ada satu kemungkinan kata tetapi sulit atau tidak umum
+Contoh: durung > urung / durung berarti ada 2 kemungkinan kata, yang dipakai yang di depan
 
 
 List kata-kata rancu dan sulit:
@@ -59,4 +61,13 @@ suwadji-2013-13   : mretelakake > pretel
 suwadji-2013-18   : dheweke > dhewe / dhewek
 suwadji-2013-19   : aweh > weh / aweh
 opus-wiki-1       : didhewekake, dheweke > dhewe / dhewek
+opus-wiki-2       : miyos > wiyos, miyos
+opus-wiki-19      : nggatosaken > nggatosaken (bentuk krama dari nggatekke {memperhatikan} yang tidak baku)
+opus-wiki-41      : dheweke > dhewe / dhewek
+opus-wiki-63      : dheweke > dhewe / dhewek
+opus-wiki-64      : ngalami > ngalami
+opus-wiki-78      : ditandhang > tandhang?
+opus-wiki-87      : diluwari > bayar / luwar
+opus-wiki-95      : gadahanipun > gadaha??
+opus-wiki-103     : ngerembag > rembag??
 
