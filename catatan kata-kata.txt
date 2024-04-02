@@ -70,4 +70,14 @@ opus-wiki-78      : ditandhang > tandhang?
 opus-wiki-87      : diluwari > bayar / luwar
 opus-wiki-95      : gadahanipun > gadaha??
 opus-wiki-103     : ngerembag > rembag??
-
+opus-wiki-128     : dheweke > dhewe / dhewek
+opus-wiki-132     : dheweke > dhewe / dhewek
+opus-wiki-150     : weneh > weh / aweh / weneh, dhewekan > dhewe / dhewek
+solopos-2022-2    : dheweke > dhewe / dhewek
+solopos-2022-10   : dheweke > dhewe / dhewek
+solopos-2022-20   : parapan > parap??
+solopos-2022-33   : penere > penere??
+solopos-2022-39   : kawentar > kawentar??
+solopos-2022-40   : kawentar > kawentar??
+solopos-2022-44   : dheweke > dhewe / dhewek, sansaya > sansaya??
+solopos-2022-63   : diwenehi > weh / aweh / weneh
