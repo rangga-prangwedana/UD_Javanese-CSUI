@@ -5207,7 +5207,7 @@
 16	ing	ing	ADP	_	Polite=Infm	17	case	_	_
 17	dalan	dalan	NOUN	_	Number=Sing	15	obl	_	_
 18	Masjid	masjid	PROPN	_	_	17	flat:name	_	_
-19	kalurahan	lurah	PROPN	_	_	17	flat:name	_	_
+19	kalurahan	kelurahan	PROPN	_	_	17	flat:name	_	_
 20	Antasan	antasan	PROPN	_	_	17	flat:name	_	_
 21	Kecil	kecil	PROPN	_	_	17	flat:name	_	_
 22	Timur	timur	PROPN	_	_	17	flat:name	_	SpaceAfter=No
@@ -5775,7 +5775,7 @@
 # text_en = However, there are also those whose job is as a famous secretary, the more famous one is his last job as a rain handler .
 1	Kamangka	kamangka	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	_
-3	sejene	sejen	SCONJ	_	_	4	mark	_	_
+3	sejene	seje	SCONJ	_	_	4	mark	_	_
 4	nduwe	duwe	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 5	gaweyan	gawe	NOUN	_	Number=Sing|Polite=Infm	4	obj	_	_
 6	minangka	pinangka	ADP	_	_	7	case	_	_
@@ -5902,7 +5902,7 @@
 # text = Sejene kanggo objek laporan, sing dijedhulke ana pirang-pirang konten.
 # text_id = Selain untuk objek laporan, yang dihasilkan adalah beberapa konten.
 # text_en = Another for the generated report object is some content.
-1	Sejene	sejen	ADP	_	_	3	case	_	_
+1	Sejene	seje	ADP	_	_	3	case	_	_
 2	kanggo	anggo	ADP	_	Polite=Infm	3	case	_	_
 3	objek	objek	NOUN	_	Number=Sing	0	root	_	_
 4	laporan	lapor	NOUN	_	Number=Sing	3	nmod	_	SpaceAfter=No
@@ -6176,13 +6176,13 @@
 # text = Kelurahan Kauman kang mapan ing laladan Kecamatan Pasar Kliwon, Solo, duwe jeneng-jeneng kampung sing ana sesambungane karo panggaweyane wargane.
 # text_id = Desa Kauman yang terletak di Kecamatan Pasar Kliwon, Solo, memiliki nama desa yang terkait dengan pekerjaan warganya.
 # text_en = Kauman Village, which is located in Pasar Kliwon District, Solo, has a village name related to the work of its residents.
-1	Kelurahan	lurah	NOUN	_	Number=Sing	13	nsubj	_	_
+1	Kelurahan	kelurahan	NOUN	_	Number=Sing	13	nsubj	_	_
 2	Kauman	kauman	PROPN	_	_	1	nmod	_	_
 3	kang	kang	PRON	_	Polite=Infm|PronType=Rel	4	nsubj:pass	_	_
 4	mapan	mapan	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	1	acl:relcl	_	_
 5	ing	ing	ADP	_	Polite=Infm	6	case	_	_
 6	laladan	laladan	NOUN	_	Number=Sing	4	obl	_	_
-7	Kecamatan	camat	PROPN	_	_	6	nmod	_	_
+7	Kecamatan	kecamatan	PROPN	_	_	6	nmod	_	_
 8	Pasar	pasar	PROPN	_	_	7	flat:name	_	_
 9	Kliwon	kliwon	PROPN	_	_	7	flat:name	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
@@ -6486,7 +6486,7 @@
 # text = Nganti tekan dina iki, wus ora kapetung cacahe tembange Didi Kempot kang kawentar tekan ngendi-endi.
 # text_id = Hingga saat ini, tak terhitung lagi lagu-lagu Didi Kempot yang terkenal di mana-mana.
 # text_en = Until now, there are countless Didi Kempot songs that are famous everywhere.
-1	Nganti	kanti	SCONJ	_	Polite=Infm	2	mark	_	_
+1	Nganti	anti	SCONJ	_	Polite=Infm	2	mark	_	_
 2	tekan	tekan	VERB	_	Mood=Ind|Voice=Act	8	advcl	_	_
 3	dina	dina	NOUN	_	Number=Sing|Polite=Infm	2	obl	_	_
 4	iki	iki	DET	_	Polite=Infm|PronType=Dem	3	det	_	SpaceAfter=No
@@ -7123,1235 +7123,1235 @@
 # text = Para warga perantau padha nggumun mirengake ature Bu Guru.
 # text_id = Para pengembara tercengang mendengar kata-kata Guru.
 # text_en = The wanderers were astonished at Master's words.
-1	Para	_	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	warga	_	NOUN	_	Number=Sing|Polite=Infm	5	nsubj	_	_
-3	perantau	_	NOUN	_	Number=Sing	2	nmod	_	_
-4	padha	_	ADJ	_	Polite=Infm	5	advmod	_	_
-5	nggumun	_	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
-6	mirengake	_	VERB	_	Mood=Ind|Polite=Form|Voice=Act	5	advcl	_	_
+1	Para	para	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	warga	warga	NOUN	_	Number=Sing|Polite=Infm	5	nsubj	_	_
+3	perantau	rantau	NOUN	_	Number=Sing	2	nmod	_	_
+4	padha	padha	ADJ	_	Polite=Infm	5	advmod	_	_
+5	nggumun	gumun	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+6	mirengake	pireng	VERB	_	Mood=Ind|Polite=Form|Voice=Act	5	advcl	_	_
 7-8	ature	_	_	_	_	_	_	_	_
-7	atur	_	NOUN	_	Number=Sing	6	obj	_	_
-8	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
-9	Bu	_	PROPN	_	_	7	nmod:poss	_	_
-10	Guru	_	PROPN	_	_	9	flat:name	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	5	punct	_	_
+7	atur	atur	NOUN	_	Number=Sing	6	obj	_	_
+8	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
+9	Bu	bu	PROPN	_	_	7	nmod:poss	_	_
+10	Guru	guru	PROPN	_	_	9	flat:name	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = solopos-2022-74
 # text = Kabeh iku nggambarake yen pidhatone Pak RT ditampa kanthi bungah.
 # text_id = Semua itu menggambarkan bahwa sambutan Pak RT disambut dengan gembira.
 # text_en = All of this illustrates that Mr. RT's welcome was greeted with joy.
-1	Kabeh	_	DET	_	Polite=Infm|PronType=Tot	2	det	_	_
-2	iku	_	PRON	_	Polite=Infm|PronType=Dem	3	nsubj	_	_
-3	nggambarake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	yen	_	SCONJ	_	Polite=Infm	9	mark	_	_
+1	Kabeh	kabeh	DET	_	Polite=Infm|PronType=Tot	2	det	_	_
+2	iku	iku	PRON	_	Polite=Infm|PronType=Dem	3	nsubj	_	_
+3	nggambarake	gambar	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	yen	yen	SCONJ	_	Polite=Infm	9	mark	_	_
 5-6	pidhatone	_	_	_	_	_	_	_	_
-5	pidhato	_	NOUN	_	Number=Sing	9	nsubj	_	_
-6	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	5	det	_	_
-7	Pak	_	PROPN	_	_	5	nmod:poss	_	_
-8	RT	_	PROPN	_	_	7	flat:name	_	_
-9	ditampa	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	3	xcomp	_	_
-10	kanthi	_	ADP	_	Polite=Infm	11	case:adv	_	_
-11	bungah	_	ADJ	_	Polite=Infm	9	advmod	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	3	punct	_	_
+5	pidhato	pidhato	NOUN	_	Number=Sing	9	nsubj	_	_
+6	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	5	det	_	_
+7	Pak	pak	PROPN	_	_	5	nmod:poss	_	_
+8	RT	rt	PROPN	_	_	7	flat:name	_	_
+9	ditampa	tampa	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	3	xcomp	_	_
+10	kanthi	kanthi	ADP	_	Polite=Infm	11	case:adv	_	_
+11	bungah	bungah	ADJ	_	Polite=Infm	9	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = solopos-2022-75
 # text = Kabeh wong bungah, ora ana sing susah.
 # text_id = Semua senang, tidak ada yang sedih.
 # text_en = Everyone is happy, no one is sad.
-1	Kabeh	_	DET	_	Polite=Infm|PronType=Tot	2	det	_	_
-2	wong	_	NOUN	_	Number=Sing|Polite=Infm	3	nsubj	_	_
-3	bungah	_	ADJ	_	Polite=Infm	0	root	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	6	punct	_	_
-5	ora	_	PART	_	Polarity=Neg|Polite=Infm	6	advmod	_	_
-6	ana	_	VERB	_	Mood=Ind|Voice=Act	3	advcl	_	_
-7	sing	_	PRON	_	Polite=Infm|PronType=Rel	8	nsubj	_	_
-8	susah	_	ADJ	_	_	6	advcl	_	SpaceAfter=No
-9	.	_	PUNCT	_	_	3	punct	_	_
+1	Kabeh	kabeh	DET	_	Polite=Infm|PronType=Tot	2	det	_	_
+2	wong	wong	NOUN	_	Number=Sing|Polite=Infm	3	nsubj	_	_
+3	bungah	bungah	ADJ	_	Polite=Infm	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	ora	ora	PART	_	Polarity=Neg|Polite=Infm	6	advmod	_	_
+6	ana	ana	VERB	_	Mood=Ind|Voice=Act	3	advcl	_	_
+7	sing	sing	PRON	_	Polite=Infm|PronType=Rel	8	nsubj	_	_
+8	susah	susah	ADJ	_	_	6	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = solopos-2022-76
 # text = Grup campursari nyuguhake tembang nostalgia, tembang kenangan.
 # text_id = Grup campursari menyuguhkan lagu-lagu nostalgia, lagu kenangan.
 # text_en = The campursari group presents nostalgic songs, songs of memories.
-1	Grup	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	campursari	_	NOUN	_	Number=Sing	1	nmod	_	_
-3	nyuguhake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	tembang	_	NOUN	_	Number=Sing	3	obj	_	_
-5	nostalgia	_	ADJ	_	_	4	amod	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	7	punct	_	_
-7	tembang	_	NOUN	_	Number=Sing	4	conj	_	_
-8	kenangan	_	NOUN	_	Number=Sing	7	nmod	_	SpaceAfter=No
-9	.	_	PUNCT	_	_	3	punct	_	_
+1	Grup	grup	NOUN	_	Number=Sing	3	nsubj	_	_
+2	campursari	campursari	NOUN	_	Number=Sing	1	nmod	_	_
+3	nyuguhake	suguh	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	tembang	tembang	NOUN	_	Number=Sing	3	obj	_	_
+5	nostalgia	nostalgia	ADJ	_	_	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	tembang	tembang	NOUN	_	Number=Sing	4	conj	_	_
+8	kenangan	kenang	NOUN	_	Number=Sing	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = solopos-2022-77
 # text = Reuni Nyawiji Idulfitri dipungkasi kanthi nembang bebarengan tembang Kemesraan.
 # text_id = Reuni Nyawiji Idulfitri diakhiri dengan nyanyian Kemesraan bersama.
 # text_en = The reunion of Nyawiji Eid ended with a song of togetherness.
-1	Reuni	_	NOUN	_	Number=Sing	4	nsubj:pass	_	_
-2	Nyawiji	_	PROPN	_	_	1	nmod	_	_
-3	Idulfitri	_	PROPN	_	_	2	flat:name	_	_
-4	dipungkasi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
-5	kanthi	_	SCONJ	_	Polite=Infm	6	mark	_	_
-6	nembang	_	VERB	_	Mood=Ind|Voice=Act	4	advcl	_	_
-7	bebarengan	_	ADV	_	Polite=Infm	6	advmod	_	_
-8	tembang	_	NOUN	_	Number=Sing	6	obl	_	_
-9	Kemesraan	_	PROPN	_	_	8	nmod	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	4	punct	_	_
+1	Reuni	reuni	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+2	Nyawiji	siji	PROPN	_	_	1	nmod	_	_
+3	Idulfitri	idulfitri	PROPN	_	_	2	flat:name	_	_
+4	dipungkasi	pungkas	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
+5	kanthi	kanthi	SCONJ	_	Polite=Infm	6	mark	_	_
+6	nembang	tembang	VERB	_	Mood=Ind|Voice=Act	4	advcl	_	_
+7	bebarengan	bareng	ADV	_	Polite=Infm	6	advmod	_	_
+8	tembang	tembang	NOUN	_	Number=Sing	6	obl	_	_
+9	Kemesraan	mesra	PROPN	_	_	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = solopos-2022-78
 # text = Puput tembang iku, warga banjur salam-salaman karo ngucap, nyuwun pangapunten lair bathin.
 # text_id = Di penghujung lagu, warga kemudian saling menyapa dengan sambutan, mohon maaf lahir batin.
 # text_en = At the end of the song, the residents then greeted each other with greetings, apologizing physically and mentally.
-1	Puput	_	ADP	_	_	2	case	_	_
-2	tembang	_	NOUN	_	Number=Sing	7	obl	_	_
-3	iku	_	DET	_	Polite=Infm|PronType=Dem	2	det	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	2	punct	_	_
-5	warga	_	NOUN	_	Number=Sing|Polite=Infm	7	nsubj	_	_
-6	banjur	_	ADV	_	Polite=Infm	7	advmod	_	_
-7	salam-salaman	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-8	karo	_	SCONJ	_	Polite=Infm	9	mark	_	_
-9	ngucap	_	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	SpaceAfter=No
-10	,	_	PUNCT	_	_	9	punct	_	_
-11	nyuwun	_	VERB	_	Mood=Ind|Polite=Humb|Voice=Act	9	xcomp	_	_
-12	pangapunten	_	NOUN	_	Number=Sing|Polite=Form	11	obj	_	_
-13	lair	_	NOUN	_	Number=Sing	12	nmod	_	_
-14	bathin	_	NOUN	_	Number=Sing	13	conj	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	7	punct	_	_
+1	Puput	puput	ADP	_	_	2	case	_	_
+2	tembang	tembang	NOUN	_	Number=Sing	7	obl	_	_
+3	iku	iku	DET	_	Polite=Infm|PronType=Dem	2	det	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	warga	warga	NOUN	_	Number=Sing|Polite=Infm	7	nsubj	_	_
+6	banjur	banjur	ADV	_	Polite=Infm	7	advmod	_	_
+7	salam-salaman	salam	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	karo	karo	SCONJ	_	Polite=Infm	9	mark	_	_
+9	ngucap	ucap	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	nyuwun	suwun	VERB	_	Mood=Ind|Polite=Humb|Voice=Act	9	xcomp	_	_
+12	pangapunten	apunten	NOUN	_	Number=Sing|Polite=Form	11	obj	_	_
+13	lair	lair	NOUN	_	Number=Sing	12	nmod	_	_
+14	bathin	bathin	NOUN	_	Number=Sing	13	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = solopos-2022-79
 # text = Lan warga uga ndedonga muga-muga taun ngarep bisa ketemu Idulfitri maneh.
 # text_id = Dan warga juga berdoa semoga tahun depan kita bisa bertemu lagi dengan Idul Fitri.
 # text_en = And residents also pray that next year we can meet again with Eid.
-1	Lan	_	CCONJ	_	Polite=Infm	4	cc	_	_
-2	warga	_	NOUN	_	Number=Sing|Polite=Infm	4	nsubj	_	_
-3	uga	_	ADV	_	Polite=Infm	4	advmod	_	_
-4	ndedonga	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-5	muga-muga	_	ADV	_	Polite=Infm	7	advmod	_	_
-6	taun	_	NOUN	_	Number=Sing	7	obl:tmod	_	_
-7	ngarep	_	ADJ	_	Polite=Infm	4	amod	_	_
-8	bisa	_	AUX	_	Polite=Infm	9	aux	_	_
-9	ketemu	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	7	xcomp	_	_
-10	Idulfitri	_	PROPN	_	_	9	obl	_	_
-11	maneh	_	ADV	_	Polite=Infm	9	advmod	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	4	punct	_	_
+1	Lan	lan	CCONJ	_	Polite=Infm	4	cc	_	_
+2	warga	warga	NOUN	_	Number=Sing|Polite=Infm	4	nsubj	_	_
+3	uga	uga	ADV	_	Polite=Infm	4	advmod	_	_
+4	ndedonga	donga	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	muga-muga	muga	ADV	_	Polite=Infm	7	advmod	_	_
+6	taun	taun	NOUN	_	Number=Sing	7	obl:tmod	_	_
+7	ngarep	arep	ADJ	_	Polite=Infm	4	amod	_	_
+8	bisa	bisa	AUX	_	Polite=Infm	9	aux	_	_
+9	ketemu	temu	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	7	xcomp	_	_
+10	Idulfitri	idulfitri	PROPN	_	_	9	obl	_	_
+11	maneh	maneh	ADV	_	Polite=Infm	9	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = solopos-2022-80
 # text = Saka kalen iki warga tani nggantungake panguripane.
 # text_id = Dari kanal-kanal ini para petani menggantungkan penghidupan mereka.
 # text_en = From these canals the farmers depended their livelihood.
-1	Saka	_	ADP	_	Polite=Infm	2	case	_	_
-2	kalen	_	NOUN	_	Number=Sing	6	obl	_	_
-3	iki	_	DET	_	Polite=Infm|PronType=Dem	2	det	_	_
-4	warga	_	NOUN	_	Number=Sing|Polite=Infm	6	nsubj	_	_
-5	tani	_	NOUN	_	Number=Sing	4	nmod	_	_
-6	nggantungake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+1	Saka	saka	ADP	_	Polite=Infm	2	case	_	_
+2	kalen	kali	NOUN	_	Number=Sing	6	obl	_	_
+3	iki	iki	DET	_	Polite=Infm|PronType=Dem	2	det	_	_
+4	warga	warga	NOUN	_	Number=Sing|Polite=Infm	6	nsubj	_	_
+5	tani	tani	NOUN	_	Number=Sing	4	nmod	_	_
+6	nggantungake	gantung	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 7-8	panguripane	_	_	_	_	_	_	_	SpaceAfter=No
-7	panguripan	_	NOUN	_	Number=Sing	6	obj	_	_
-8	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
-9	.	_	PUNCT	_	_	6	punct	_	_
+7	panguripan	urip	NOUN	_	Number=Sing	6	obj	_	_
+8	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = solopos-2022-81
 # text = Kalen siji-sijine kang mujur ngulon ngliwati tapel wates desa tembus tekan kali gedhe.
 # text_id = Satu-satunya kanal yang mengalir ke barat melintasi perbatasan desa menembus ke sungai besar.
 # text_en = The only canal that ran west across the village border ran into the great river.
-1	Kalen	_	NOUN	_	Number=Sing	7	nsubj	_	_
+1	Kalen	kali	NOUN	_	Number=Sing	7	nsubj	_	_
 2-3	siji-sijine	_	_	_	_	_	_	_	_
-2	siji-siji	_	NUM	_	NumType=Card|Polite=Infm	1	nummod	_	_
-3	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	2	det	_	_
-4	kang	_	PRON	_	Polite=Infm|PronType=Rel	5	nsubj	_	_
-5	mujur	_	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
-6	ngulon	_	NOUN	_	Number=Sing|Polite=Infm	5	obl	_	_
-7	ngliwati	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-8	tapel	_	NOUN	_	Number=Sing	7	obj	_	_
-9	wates	_	NOUN	_	Number=Sing	8	nmod	_	_
-10	desa	_	NOUN	_	Number=Sing	8	nmod	_	_
-11	tembus	_	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
-12	tekan	_	ADP	_	Polite=Infm	11	advcl	_	_
-13	kali	_	NOUN	_	Number=Sing	12	obl	_	_
-14	gedhe	_	ADJ	_	Polite=Infm	13	amod	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	7	punct	_	_
+2	siji-siji	siji	NUM	_	NumType=Card|Polite=Infm	1	nummod	_	_
+3	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	2	det	_	_
+4	kang	kang	PRON	_	Polite=Infm|PronType=Rel	5	nsubj	_	_
+5	mujur	mujur	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
+6	ngulon	kulon	NOUN	_	Number=Sing|Polite=Infm	5	obl	_	_
+7	ngliwati	liwat	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	tapel	tapel	NOUN	_	Number=Sing	7	obj	_	_
+9	wates	wates	NOUN	_	Number=Sing	8	nmod	_	_
+10	desa	desa	NOUN	_	Number=Sing	8	nmod	_	_
+11	tembus	tembus	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
+12	tekan	tekan	ADP	_	Polite=Infm	11	advcl	_	_
+13	kali	kali	NOUN	_	Number=Sing	12	obl	_	_
+14	gedhe	gedhe	ADJ	_	Polite=Infm	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = solopos-2022-82
 # text = Sawah-sawah dadi ora kesuwen kasatan.
 # text_id = Ladang menjadi tidak pernah terlalu haus.
 # text_en = The fields are never too thirsty.
-1	Sawah-sawah	_	NOUN	_	Number=Plur	2	nsubj	_	_
-2	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
-3	ora	_	PART	_	Polarity=Neg|Polite=Infm	4	advmod	_	_
-4	kesuwen	_	ADV	_	_	5	advmod	_	_
-5	kasatan	_	ADJ	_	_	2	xcomp	_	SpaceAfter=No
-6	.	_	PUNCT	_	_	2	punct	_	_
+1	Sawah-sawah	sawah	NOUN	_	Number=Plur	2	nsubj	_	_
+2	dadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
+3	ora	ora	PART	_	Polarity=Neg|Polite=Infm	4	advmod	_	_
+4	kesuwen	suwe	ADV	_	_	5	advmod	_	_
+5	kasatan	asat	ADJ	_	_	2	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = solopos-2022-83
 # text = Jamal lan kanca-kancane bisa luwih cepet nggarap sawahe.
 # text_id = Jamal dan kawan-kawan mampu bekerja lebih cepat di sawah.
 # text_en = Jamal and his friends were able to work faster in the field.
-1	Jamal	_	PROPN	_	_	7	nsubj	_	_
-2	lan	_	CCONJ	_	Polite=Infm	3	cc	_	_
+1	Jamal	jamal	PROPN	_	_	7	nsubj	_	_
+2	lan	lan	CCONJ	_	Polite=Infm	3	cc	_	_
 3-4	kanca-kancane	_	_	_	_	_	_	_	_
-3	kanca-kanca	_	NOUN	_	Number=Sing|Polite=Infm	1	conj	_	_
-4	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	3	nmod:poss	_	_
-5	bisa	_	AUX	_	Polite=Infm	7	aux	_	_
-6	luwih	_	ADV	_	_	7	advmod	_	_
-7	cepet	_	ADJ	_	_	0	root	_	_
-8	nggarap	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	7	advcl	_	_
+3	kanca-kanca	kanca	NOUN	_	Number=Sing|Polite=Infm	1	conj	_	_
+4	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	3	nmod:poss	_	_
+5	bisa	bisa	AUX	_	Polite=Infm	7	aux	_	_
+6	luwih	luwih	ADV	_	_	7	advmod	_	_
+7	cepet	cepet	ADJ	_	_	0	root	_	_
+8	nggarap	garap	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	7	advcl	_	_
 9-10	sawahe	_	_	_	_	_	_	_	SpaceAfter=No
-9	sawah	_	NOUN	_	Number=Sing	8	obj	_	_
-10	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	9	det	_	_
-11	.	_	PUNCT	_	_	7	punct	_	_
+9	sawah	sawah	NOUN	_	Number=Sing	8	obj	_	_
+10	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	9	det	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = solopos-2022-84
 # text = Bocah enom sing gelem kaya Jamal ora akeh, kepara malah ora ana.
 # text_id = Tidak banyak anak muda yang mau seperti Jamal, bahkan di sana pun tidak.
 # text_en = Not many young people want to be like Jamal, not even there.
-1	Bocah	_	NOUN	_	Number=Sing|Polite=Infm	8	nsubj	_	_
-2	enom	_	ADJ	_	Polite=Infm	1	amod	_	_
-3	sing	_	PRON	_	Polite=Infm|PronType=Rel	4	nsubj	_	_
-4	gelem	_	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
-5	kaya	_	ADP	_	Polite=Infm	6	case	_	_
-6	Jamal	_	PROPN	_	_	4	obl	_	_
-7	ora	_	PART	_	Polarity=Neg|Polite=Infm	8	advmod	_	_
-8	akeh	_	ADJ	_	Polite=Infm	0	root	_	SpaceAfter=No
-9	,	_	PUNCT	_	_	8	punct	_	_
-10	kepara	_	ADV	_	_	13	advmod	_	_
-11	malah	_	ADV	_	_	13	advmod	_	_
-12	ora	_	PART	_	Polarity=Neg|Polite=Infm	13	advmod	_	_
-13	ana	_	VERB	_	Mood=Ind|Voice=Act	8	advcl	_	SpaceAfter=No
-14	.	_	PUNCT	_	_	8	punct	_	_
+1	Bocah	bocah	NOUN	_	Number=Sing|Polite=Infm	8	nsubj	_	_
+2	enom	nom	ADJ	_	Polite=Infm	1	amod	_	_
+3	sing	sing	PRON	_	Polite=Infm|PronType=Rel	4	nsubj	_	_
+4	gelem	gelem	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
+5	kaya	kaya	ADP	_	Polite=Infm	6	case	_	_
+6	Jamal	jamal	PROPN	_	_	4	obl	_	_
+7	ora	ora	PART	_	Polarity=Neg|Polite=Infm	8	advmod	_	_
+8	akeh	akeh	ADJ	_	Polite=Infm	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	kepara	kepara	ADV	_	_	13	advmod	_	_
+11	malah	malah	ADV	_	_	13	advmod	_	_
+12	ora	ora	PART	_	Polarity=Neg|Polite=Infm	13	advmod	_	_
+13	ana	ana	VERB	_	Mood=Ind|Voice=Act	8	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = solopos-2022-85
 # text = Banyu abang sing mlebu sawahe lan kabeh sawah ing desane gawe kasile panen kurang maremake.
 # text_id = Merahnya air yang masuk ke sawah dan seluruh sawah di desa tersebut membuat hasil panen kurang memuaskan.
 # text_en = The red water that enters the rice fields and all the rice fields in the village makes the harvest unsatisfactory.
-1	Banyu	_	NOUN	_	Number=Sing	13	nsubj	_	_
-2	abang	_	ADJ	_	Polite=Infm	1	amod	_	_
-3	sing	_	PRON	_	Polite=Infm|PronType=Rel	4	nsubj	_	_
-4	mlebu	_	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
+1	Banyu	banyu	NOUN	_	Number=Sing	13	nsubj	_	_
+2	abang	abang	ADJ	_	Polite=Infm	1	amod	_	_
+3	sing	sing	PRON	_	Polite=Infm|PronType=Rel	4	nsubj	_	_
+4	mlebu	lebu	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
 5-6	sawahe	_	_	_	_	_	_	_	_
-5	sawah	_	NOUN	_	Number=Sing	4	obj	_	_
-6	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	5	det	_	_
-7	lan	_	CCONJ	_	Polite=Infm	9	cc	_	_
-8	kabeh	_	DET	_	Polite=Infm|PronType=Tot	9	det	_	_
-9	sawah	_	NOUN	_	Number=Sing	5	conj	_	_
-10	ing	_	ADP	_	Polite=Infm	11	case	_	_
+5	sawah	sawah	NOUN	_	Number=Sing	4	obj	_	_
+6	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	5	det	_	_
+7	lan	lan	CCONJ	_	Polite=Infm	9	cc	_	_
+8	kabeh	kabeh	DET	_	Polite=Infm|PronType=Tot	9	det	_	_
+9	sawah	sawah	NOUN	_	Number=Sing	5	conj	_	_
+10	ing	ing	ADP	_	Polite=Infm	11	case	_	_
 11-12	desane	_	_	_	_	_	_	_	_
-11	desa	_	NOUN	_	Number=Sing	9	nmod	_	_
-12	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	11	det	_	_
-13	gawe	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
+11	desa	desa	NOUN	_	Number=Sing	9	nmod	_	_
+12	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	11	det	_	_
+13	gawe	gawe	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
 14-15	kasile	_	_	_	_	_	_	_	_
-14	kasil	_	NOUN	_	Number=Sing	18	nsubj	_	_
-15	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	14	det	_	_
-16	panen	_	NOUN	_	Number=Sing	14	nmod	_	_
-17	kurang	_	ADV	_	_	18	advmod	_	_
-18	maremake	_	VERB	_	Mood=Ind|Voice=Act	13	xcomp	_	SpaceAfter=No
-19	.	_	PUNCT	_	_	13	punct	_	_
+14	kasil	asil	NOUN	_	Number=Sing	18	nsubj	_	_
+15	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	14	det	_	_
+16	panen	panen	NOUN	_	Number=Sing	14	nmod	_	_
+17	kurang	kurang	ADV	_	_	18	advmod	_	_
+18	maremake	marem	VERB	_	Mood=Ind|Voice=Act	13	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = solopos-2022-86
 # text = Sawetara menit sawise, banyu abang kang dipyuri bubuk putih kuwi malih bening kaya lumrahe banyu sadurunge.
 # text_id = Beberapa menit kemudian, air merah yang ditaburi bubuk putih menjadi itu jernih seperti air sebelumnya.
 # text_en = A few minutes later, the red water sprinkled with white powder became clear like the water before.
-1	Sawetara	_	DET	_	Number=Plur|PronType=Ind	2	det	_	_
-2	menit	_	NOUN	_	Number=Sing	12	obl:tmod	_	_
-3	sawise	_	ADV	_	Polite=Infm	2	advmod	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	2	punct	_	_
-5	banyu	_	NOUN	_	Number=Sing	12	nsubj	_	_
-6	abang	_	ADJ	_	Polite=Infm	5	amod	_	_
-7	kang	_	PRON	_	Polite=Infm|PronType=Rel	8	nsubj:pass	_	_
-8	dipyuri	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	5	acl:relcl	_	_
-9	bubuk	_	NOUN	_	Number=Sing	8	obl	_	_
-10	putih	_	ADJ	_	_	9	amod	_	_
-11	kuwi	_	DET	_	Polite=Infm|PronType=Dem	9	det	_	_
-12	malih	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-13	bening	_	ADJ	_	_	12	xcomp	_	_
-14	kaya	_	ADP	_	Polite=Infm	16	case	_	_
-15	lumrahe	_	ADV	_	Polite=Infm	16	advmod	_	_
-16	banyu	_	NOUN	_	Number=Sing	13	advcl	_	_
-17	sadurunge	_	ADV	_	Polite=Infm	16	advmod	_	SpaceAfter=No
-18	.	_	PUNCT	_	_	12	punct	_	_
+1	Sawetara	sawetara	DET	_	Number=Plur|PronType=Ind	2	det	_	_
+2	menit	menit	NOUN	_	Number=Sing	12	obl:tmod	_	_
+3	sawise	wis	ADV	_	Polite=Infm	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	banyu	banyu	NOUN	_	Number=Sing	12	nsubj	_	_
+6	abang	abang	ADJ	_	Polite=Infm	5	amod	_	_
+7	kang	kang	PRON	_	Polite=Infm|PronType=Rel	8	nsubj:pass	_	_
+8	dipyuri	kepyur	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	5	acl:relcl	_	_
+9	bubuk	bubuk	NOUN	_	Number=Sing	8	obl	_	_
+10	putih	puthi	ADJ	_	_	9	amod	_	_
+11	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	9	det	_	_
+12	malih	palih	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+13	bening	bening	ADJ	_	_	12	xcomp	_	_
+14	kaya	kaya	ADP	_	Polite=Infm	16	case	_	_
+15	lumrahe	lumrah	ADV	_	Polite=Infm	16	advmod	_	_
+16	banyu	banyu	NOUN	_	Number=Sing	13	advcl	_	_
+17	sadurunge	durung	ADV	_	Polite=Infm	16	advmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = solopos-2022-87
 # text = Miturut Maskuri, tradhisi Sadrananan wus ana kawit taun 1450.
 # text_id = Menurut Maskuri, tradisi Sadrananan sudah ada sejak tahun 1450.
 # text_en = According to Maskuri, the Sadrananan tradition has existed since 1450.
-1	Miturut	_	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
-2	Maskuri	_	PROPN	_	_	1	obl	_	SpaceAfter=No
-3	,	_	PUNCT	_	_	2	punct	_	_
-4	tradhisi	_	NOUN	_	Number=Sing	7	nsubj	_	_
-5	Sadrananan	_	PROPN	_	_	4	nmod	_	_
-6	wus	_	AUX	_	Polite=Infm	7	aux	_	_
-7	ana	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-8	kawit	_	ADP	_	_	9	case	_	_
-9	taun	_	NOUN	_	Number=Sing	7	obl:tmod	_	_
-10	1450	_	NUM	_	NumType=Card	9	nummod	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	7	punct	_	_
+1	Miturut	turut	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
+2	Maskuri	maskuri	PROPN	_	_	1	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	tradhisi	tradhisi	NOUN	_	Number=Sing	7	nsubj	_	_
+5	Sadrananan	sadrananan	PROPN	_	_	4	nmod	_	_
+6	wus	wis	AUX	_	Polite=Infm	7	aux	_	_
+7	ana	ana	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	kawit	kawit	ADP	_	_	9	case	_	_
+9	taun	taun	NOUN	_	Number=Sing	7	obl:tmod	_	_
+10	1450	1450	NUM	_	NumType=Card	9	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = solopos-2022-88
 # text = Tradhisi iku diusumke dening salah sijining muride Sunan Kalijaga saka Demak, yaiku Syeh Ibrahim, nalika dakwah menyang Sukabumi.
 # text_id = Tradisi tersebut diperkenalkan oleh salah satu santri Sunan Kalijaga dari Demak, yaitu Syekh Ibrahim, ketika berdakwah ke Sukabumi.
 # text_en = This tradition was introduced by one of Sunan Kalijaga 's students from Demak, namely Sheikh Ibrahim, when he preached to Sukabumi.
-1	Tradhisi	_	NOUN	_	Number=Sing	3	nsubj:pass	_	_
-2	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-3	diusumke	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
-4	dening	_	ADP	_	Polite=Infm	7	case	_	_
-5	salah	_	ADJ	_	_	6	advmod	_	_
-6	sijining	_	NUM	_	NumType=Card	7	nummod	_	_
+1	Tradhisi	tradhisi	NOUN	_	Number=Sing	3	nsubj:pass	_	_
+2	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+3	diusumke	usum	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
+4	dening	dene	ADP	_	Polite=Infm	7	case	_	_
+5	salah	salah	ADJ	_	_	6	advmod	_	_
+6	sijining	siji	NUM	_	NumType=Card	7	nummod	_	_
 7-8	muride	_	_	_	_	_	_	_	_
-7	murid	_	NOUN	_	Number=Sing	3	obl:agent	_	_
-8	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
-9	Sunan	_	PROPN	_	_	7	nmod:poss	_	_
-10	Kalijaga	_	PROPN	_	_	9	flat:name	_	_
-11	saka	_	ADP	_	Polite=Infm	12	case	_	_
-12	Demak	_	PROPN	_	_	9	nmod	_	SpaceAfter=No
-13	,	_	PUNCT	_	_	15	punct	_	_
-14	yaiku	_	AUX	_	Polite=Infm	15	cop	_	_
-15	Syeh	_	PROPN	_	_	7	appos	_	_
-16	Ibrahim	_	PROPN	_	_	15	flat:name	_	SpaceAfter=No
-17	,	_	PUNCT	_	_	19	punct	_	_
-18	nalika	_	SCONJ	_	Polite=Elev	19	mark	_	_
-19	dakwah	_	VERB	_	Mood=Ind|Voice=Act	3	advcl	_	_
-20	menyang	_	ADP	_	_	21	case	_	_
-21	Sukabumi	_	PROPN	_	_	19	obl	_	SpaceAfter=No
-22	.	_	PUNCT	_	_	3	punct	_	_
+7	murid	murid	NOUN	_	Number=Sing	3	obl:agent	_	_
+8	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
+9	Sunan	sunan	PROPN	_	_	7	nmod:poss	_	_
+10	Kalijaga	kalijaga	PROPN	_	_	9	flat:name	_	_
+11	saka	saka	ADP	_	Polite=Infm	12	case	_	_
+12	Demak	demak	PROPN	_	_	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	yaiku	yaiku	AUX	_	Polite=Infm	15	cop	_	_
+15	Syeh	syeh	PROPN	_	_	7	appos	_	_
+16	Ibrahim	ibrahim	PROPN	_	_	15	flat:name	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	nalika	nalika	SCONJ	_	Polite=Elev	19	mark	_	_
+19	dakwah	dakwah	VERB	_	Mood=Ind|Voice=Act	3	advcl	_	_
+20	menyang	menyang	ADP	_	_	21	case	_	_
+21	Sukabumi	sukabumi	PROPN	_	_	19	obl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = solopos-2022-89
 # text = Ing Desa Kaliwungu, Kabupaten Semarang, uga ginelar adicara tradhisi nyadran ing pasareyan Sidorejo, Dusun Kalikendang.
 # text_id = Di Desa Kaliwungu, Kabupaten Semarang, juga ada upacara adat nyadran di pemakaman Sidorejo di Dusun Kalikendang.
 # text_en = In Kaliwungu Village , Semarang Regency, there is also a traditional nyadran ceremony at the Sidorejo cemetery in Kalikendang Hamlet .
-1	Ing	_	ADP	_	Polite=Infm	2	case	_	_
-2	Desa	_	PROPN	_	_	9	obl	_	_
-3	Kaliwungu	_	PROPN	_	_	2	flat:name	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	2	punct	_	_
-5	Kabupaten	_	PROPN	_	_	2	nmod	_	_
-6	Semarang	_	PROPN	_	_	5	flat:name	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	5	punct	_	_
-8	uga	_	ADV	_	Polite=Infm	9	advmod	_	_
-9	ginelar	_	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
-10	adicara	_	NOUN	_	Number=Sing	9	obl	_	_
-11	tradhisi	_	NOUN	_	Number=Sing	10	nmod	_	_
-12	nyadran	_	NOUN	_	Number=Sing	11	nmod	_	_
-13	ing	_	ADP	_	Polite=Infm	14	case	_	_
-14	pasareyan	_	NOUN	_	Number=Sing	10	nmod	_	_
-15	Sidorejo	_	PROPN	_	_	14	nmod	_	SpaceAfter=No
-16	,	_	PUNCT	_	_	17	punct	_	_
-17	Dusun	_	PROPN	_	_	15	nmod	_	_
-18	Kalikendang	_	PROPN	_	_	17	flat:name	_	SpaceAfter=No
-19	.	_	PUNCT	_	_	9	punct	_	_
+1	Ing	ing	ADP	_	Polite=Infm	2	case	_	_
+2	Desa	desa	PROPN	_	_	9	obl	_	_
+3	Kaliwungu	kaliwungu	PROPN	_	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	Kabupaten	kabupaten	PROPN	_	_	2	nmod	_	_
+6	Semarang	semarang	PROPN	_	_	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	uga	uga	ADV	_	Polite=Infm	9	advmod	_	_
+9	ginelar	gelar	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+10	adicara	acara	NOUN	_	Number=Sing	9	obl	_	_
+11	tradhisi	tradhisi	NOUN	_	Number=Sing	10	nmod	_	_
+12	nyadran	sadran	NOUN	_	Number=Sing	11	nmod	_	_
+13	ing	ing	ADP	_	Polite=Infm	14	case	_	_
+14	pasareyan	sare	NOUN	_	Number=Sing	10	nmod	_	_
+15	Sidorejo	sidorejo	PROPN	_	_	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	Dusun	dusun	PROPN	_	_	15	nmod	_	_
+18	Kalikendang	kalikendang	PROPN	_	_	17	flat:name	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = solopos-2022-90
 # text = Tradhisi iku wus dilakoni warga kawit jaman mbiyen lan isih dileluri nganti saiki.
 # text_id = Tradisi tersebut telah dilakukan oleh masyarakat sejak zaman dahulu dan masih dilestarikan hingga saat ini.
 # text_en = This tradition has been carried out by the community since ancient times and is still preserved today.
-1	Tradhisi	_	PROPN	_	_	4	nsubj:pass	_	_
-2	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-3	wus	_	AUX	_	Polite=Infm	4	aux	_	_
-4	dilakoni	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
-5	warga	_	NOUN	_	Number=Sing|Polite=Infm	4	obl:agent	_	_
-6	kawit	_	ADP	_	_	7	case	_	_
-7	jaman	_	NOUN	_	Number=Sing	4	obl:tmod	_	_
-8	mbiyen	_	ADV	_	Polite=Infm	7	advmod	_	_
-9	lan	_	CCONJ	_	Polite=Infm	11	cc	_	_
-10	isih	_	ADV	_	Polite=Infm	11	advmod	_	_
-11	dileluri	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	4	advcl	_	_
-12	nganti	_	ADP	_	Polite=Infm	13	case	_	_
-13	saiki	_	ADV	_	Polite=Infm|PronType=Dem	11	advmod	_	SpaceAfter=No
-14	.	_	PUNCT	_	_	4	punct	_	_
+1	Tradhisi	tradhisi	PROPN	_	_	4	nsubj:pass	_	_
+2	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+3	wus	wis	AUX	_	Polite=Infm	4	aux	_	_
+4	dilakoni	laku	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
+5	warga	warga	NOUN	_	Number=Sing|Polite=Infm	4	obl:agent	_	_
+6	kawit	kawit	ADP	_	_	7	case	_	_
+7	jaman	jaman	NOUN	_	Number=Sing	4	obl:tmod	_	_
+8	mbiyen	biyen	ADV	_	Polite=Infm	7	advmod	_	_
+9	lan	lan	CCONJ	_	Polite=Infm	11	cc	_	_
+10	isih	isih	ADV	_	Polite=Infm	11	advmod	_	_
+11	dileluri	luri	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	4	advcl	_	_
+12	nganti	anti	ADP	_	Polite=Infm	13	case	_	_
+13	saiki	saiki	ADV	_	Polite=Infm|PronType=Dem	11	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = solopos-2022-91
 # text = Tradhisi nyadran ing Kaliwungu, para wargane padha nggawa tumpeng, ingkung, lan sakubarampene.
 # text_id = Tradisi nyadran di Kaliwungu, warga membawa tumpeng, ingkung, dan sebagainya.
 # text_en = nyadran tradition in Kaliwungu , residents bring tumpeng, ingkung , and so on.
-1	Tradhisi	_	NOUN	_	Number=Sing	0	root	_	_
-2	nyadran	_	NOUN	_	Number=Sing	1	nmod	_	_
-3	ing	_	ADP	_	Polite=Infm	4	case	_	_
-4	Kaliwungu	_	PROPN	_	_	1	nmod	_	SpaceAfter=No
-5	,	_	PUNCT	_	_	1	punct	_	_
-6	para	_	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+1	Tradhisi	tradhisi	NOUN	_	Number=Sing	0	root	_	_
+2	nyadran	sadran	NOUN	_	Number=Sing	1	nmod	_	_
+3	ing	ing	ADP	_	Polite=Infm	4	case	_	_
+4	Kaliwungu	kaliwungu	PROPN	_	_	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	para	para	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7-8	wargane	_	_	_	_	_	_	_	_
-7	warga	_	NOUN	_	Number=Sing|Polite=Infm	10	nmod:poss	_	_
-8	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
-9	padha	_	ADJ	_	Polite=Infm	10	advmod	_	_
-10	nggawa	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	1	acl	_	_
-11	tumpeng	_	NOUN	_	Number=Sing	10	obj	_	SpaceAfter=No
-12	,	_	PUNCT	_	_	13	punct	_	_
-13	ingkung	_	NOUN	_	Number=Sing	11	conj	_	SpaceAfter=No
-14	,	_	PUNCT	_	_	16	punct	_	_
-15	lan	_	CCONJ	_	Polite=Infm	16	cc	_	_
-16	sakubarampene	_	NOUN	_	Number=Sing	11	conj	_	SpaceAfter=No
-17	.	_	PUNCT	_	_	1	punct	_	_
+7	warga	warga	NOUN	_	Number=Sing|Polite=Infm	10	nmod:poss	_	_
+8	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
+9	padha	padha	ADJ	_	Polite=Infm	10	advmod	_	_
+10	nggawa	gawa	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	1	acl	_	_
+11	tumpeng	tumpeng	NOUN	_	Number=Sing	10	obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	ingkung	ingkung	NOUN	_	Number=Sing	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	lan	lan	CCONJ	_	Polite=Infm	16	cc	_	_
+16	sakubarampene	ubarampe	NOUN	_	Number=Sing	11	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = solopos-2022-92
 # text = Nyadran uga dadi sarana resik-resik pasareyan amarga ing dina umume warga arang-arang nyekar ing pasareyan.
 # text_id = Nyadran juga merupakan sarana pembersihan kuburan karena pada hari umum orang jarang ziarah ke kuburan.
 # text_en = Nyadran is also a means of cleaning graves because on public days people rarely make pilgrimages to graves.
-1	Nyadran	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	uga	_	ADV	_	Polite=Infm	3	advmod	_	_
-3	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
-4	sarana	_	NOUN	_	Number=Sing	3	obl	_	_
-5	resik-resik	_	NOUN	_	Number=Sing	4	nmod	_	_
-6	pasareyan	_	NOUN	_	Number=Sing	5	nmod	_	_
-7	amarga	_	SCONJ	_	Polite=Infm	13	mark	_	_
-8	ing	_	ADP	_	Polite=Infm	9	case	_	_
-9	dina	_	NOUN	_	Number=Sing|Polite=Infm	13	obl	_	_
-10	umume	_	ADV	_	Polite=Infm	13	advmod	_	_
-11	warga	_	NOUN	_	Number=Sing|Polite=Infm	13	nsubj	_	_
-12	arang-arang	_	ADJ	_	_	11	nmod	_	_
-13	nyekar	_	VERB	_	Mood=Ind|Voice=Act	3	advcl	_	_
-14	ing	_	ADP	_	Polite=Infm	15	case	_	_
-15	pasareyan	_	NOUN	_	Number=Sing	13	obl	_	SpaceAfter=No
-16	.	_	PUNCT	_	_	3	punct	_	_
+1	Nyadran	sadran	NOUN	_	Number=Sing	3	nsubj	_	_
+2	uga	uga	ADV	_	Polite=Infm	3	advmod	_	_
+3	dadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
+4	sarana	sarana	NOUN	_	Number=Sing	3	obl	_	_
+5	resik-resik	resik	NOUN	_	Number=Sing	4	nmod	_	_
+6	pasareyan	sare	NOUN	_	Number=Sing	5	nmod	_	_
+7	amarga	amarga	SCONJ	_	Polite=Infm	13	mark	_	_
+8	ing	ing	ADP	_	Polite=Infm	9	case	_	_
+9	dina	dina	NOUN	_	Number=Sing|Polite=Infm	13	obl	_	_
+10	umume	umum	ADV	_	Polite=Infm	13	advmod	_	_
+11	warga	warga	NOUN	_	Number=Sing|Polite=Infm	13	nsubj	_	_
+12	arang-arang	arang	ADJ	_	_	11	nmod	_	_
+13	nyekar	sekar	VERB	_	Mood=Ind|Voice=Act	3	advcl	_	_
+14	ing	ing	ADP	_	Polite=Infm	15	case	_	_
+15	pasareyan	sare	NOUN	_	Number=Sing	13	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = solopos-2022-93
 # text = Adicara nyadran iku diwiwiti kanthi resik-resik sakjroning pasareyan lan sakiwa tengene.
 # text_id = Upacara berkabung dimulai dengan pembersihan keseluruhan makam dan sekitarnya.
 # text_en = The mourning ceremony begins with the cleaning of the tomb and its surroundings.
-1	Adicara	_	NOUN	_	Number=Sing	4	nsubj	_	_
-2	nyadran	_	NOUN	_	Number=Sing	1	nmod	_	_
-3	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-4	diwiwiti	_	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
-5	kanthi	_	ADP	_	Polite=Infm	6	case	_	_
-6	resik-resik	_	NOUN	_	Number=Sing	4	obl	_	_
-7	sakjroning	_	ADP	_	Polite=Infm	8	case	_	_
-8	pasareyan	_	NOUN	_	Number=Sing	6	nmod	_	_
-9	lan	_	CCONJ	_	Polite=Infm	10	cc	_	_
-10	sakiwa	_	NOUN	_	Number=Sing	8	conj	_	_
+1	Adicara	acara	NOUN	_	Number=Sing	4	nsubj	_	_
+2	nyadran	sadran	NOUN	_	Number=Sing	1	nmod	_	_
+3	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+4	diwiwiti	wiwit	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+5	kanthi	kanthi	ADP	_	Polite=Infm	6	case	_	_
+6	resik-resik	resik	NOUN	_	Number=Sing	4	obl	_	_
+7	sakjroning	jero	ADP	_	Polite=Infm	8	case	_	_
+8	pasareyan	sare	NOUN	_	Number=Sing	6	nmod	_	_
+9	lan	lan	CCONJ	_	Polite=Infm	10	cc	_	_
+10	sakiwa	kiwa	NOUN	_	Number=Sing	8	conj	_	_
 11-12	tengene	_	_	_	_	_	_	_	SpaceAfter=No
-11	tengene	_	NOUN	_	Number=Sing	10	nmod	_	_
-12	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	11	det	_	_
-13	.	_	PUNCT	_	_	4	punct	_	_
+11	tengene	tengen	NOUN	_	Number=Sing	10	nmod	_	_
+12	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	11	det	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = solopos-2022-94
 # text = Uga diterusake nyekar ing kuburane leluhure dhewe-dhewe.
 # text_id = Juga diteruskan ziarah ke kuburan leluhurnya masing-masing.
 # text_en = Also continued the pilgrimage to the graves of their respective ancestors.
-1	Uga	_	ADV	_	Polite=Infm	2	advmod	_	_
-2	diterusake	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
-3	nyekar	_	VERB	_	Mood=Ind|Voice=Act	2	xcomp	_	_
-4	ing	_	ADP	_	Polite=Infm	5	case	_	_
+1	Uga	uga	ADV	_	Polite=Infm	2	advmod	_	_
+2	diterusake	terus	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
+3	nyekar	sekar	VERB	_	Mood=Ind|Voice=Act	2	xcomp	_	_
+4	ing	ing	ADP	_	Polite=Infm	5	case	_	_
 5-6	kuburane	_	_	_	_	_	_	_	_
-5	kuburan	_	NOUN	_	Number=Sing|Polite=Infm	3	obl	_	_
-6	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	5	det	_	_
+5	kuburan	kubur	NOUN	_	Number=Sing|Polite=Infm	3	obl	_	_
+6	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	5	det	_	_
 7-8	leluhure	_	_	_	_	_	_	_	_
-7	leluhur	_	NOUN	_	Number=Sing	5	nmod	_	_
-8	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
-9	dhewe-dhewe	_	DET	_	Polite=Infm|PronType=Emp	7	det	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	2	punct	_	_
+7	leluhur	luhur	NOUN	_	Number=Sing	5	nmod	_	_
+8	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
+9	dhewe-dhewe	dhewe	DET	_	Polite=Infm|PronType=Emp	7	det	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = solopos-2022-95
 # text = Sabanjure maca donga sing dipimpin dening sesepuh dhaerah kono.
 # text_id = Selanjutnya membaca doa yang dipimpin oleh para sesepuh di daerah sana.
 # text_en = Then read a prayer led by the elders there.
-1	Sabanjure	_	ADV	_	Polite=Infm	2	advmod	_	_
-2	maca	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-3	donga	_	NOUN	_	Number=Sing	2	obj	_	_
-4	sing	_	PRON	_	Polite=Infm|PronType=Rel	5	nsubj:pass	_	_
-5	dipimpin	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	2	advcl	_	_
-6	dening	_	ADP	_	Polite=Infm	7	case	_	_
-7	sesepuh	_	NOUN	_	Number=Sing	5	obl	_	_
-8	dhaerah	_	NOUN	_	Number=Sing	7	nmod	_	_
-9	kono	_	ADV	_	Polite=Infm|PronType=Dem	8	advmod	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	2	punct	_	_
+1	Sabanjure	banjur	ADV	_	Polite=Infm	2	advmod	_	_
+2	maca	waca	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	donga	donga	NOUN	_	Number=Sing	2	obj	_	_
+4	sing	sing	PRON	_	Polite=Infm|PronType=Rel	5	nsubj:pass	_	_
+5	dipimpin	pimpin	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	2	advcl	_	_
+6	dening	dene	ADP	_	Polite=Infm	7	case	_	_
+7	sesepuh	sepuh	NOUN	_	Number=Sing	5	obl	_	_
+8	dhaerah	dhaerah	NOUN	_	Number=Sing	7	nmod	_	_
+9	kono	kono	ADV	_	Polite=Infm|PronType=Dem	8	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = solopos-2022-96
 # text = Pungkasaning adicara yaiku kembul bujana bebarengan sing bisa nambah gayenge swasana.
 # text_id = Akhir acara adalah pesta makan bersama yang bisa menambah hangatnya suasana.
 # text_en = The end of the event is a dinner party that can add to the warmth of the atmosphere.
 1-2	Pungkasaning	_	_	_	_	_	_	_	_
-1	pungkasan	_	NOUN	_	Number=Sing|Polite=Form	3	nmod:lmod	_	_
-2	ing	_	ADP	_	Polite=Infm	3	case	_	_
-3	adicara	_	NOUN	_	Number=Sing	5	nsubj	_	_
-4	yaiku	_	AUX	_	Polite=Infm	5	cop	_	_
-5	kembul	_	NOUN	_	Number=Sing	0	root	_	_
-6	bujana	_	NOUN	_	Number=Sing	5	nmod	_	_
-7	bebarengan	_	ADV	_	Polite=Infm	5	advmod	_	_
-8	sing	_	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
-9	bisa	_	AUX	_	Polite=Infm	10	aux	_	_
-10	nambah	_	VERB	_	Mood=Ind|Voice=Act	5	acl:relcl	_	_
+1	pungkasan	pungkas	NOUN	_	Number=Sing|Polite=Form	3	nmod:lmod	_	_
+2	ing	ing	ADP	_	Polite=Infm	3	case	_	_
+3	adicara	acara	NOUN	_	Number=Sing	5	nsubj	_	_
+4	yaiku	yaiku	AUX	_	Polite=Infm	5	cop	_	_
+5	kembul	kembul	NOUN	_	Number=Sing	0	root	_	_
+6	bujana	bujana	NOUN	_	Number=Sing	5	nmod	_	_
+7	bebarengan	bareng	ADV	_	Polite=Infm	5	advmod	_	_
+8	sing	sing	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
+9	bisa	bisa	AUX	_	Polite=Infm	10	aux	_	_
+10	nambah	tambah	VERB	_	Mood=Ind|Voice=Act	5	acl:relcl	_	_
 11-12	gayenge	_	_	_	_	_	_	_	_
-11	gayeng	_	NOUN	_	Number=Sing	10	obl	_	_
-12	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	11	det	_	_
-13	swasana	_	NOUN	_	Number=Sing	11	nmod	_	SpaceAfter=No
-14	.	_	PUNCT	_	_	5	punct	_	_
+11	gayeng	gayeng	NOUN	_	Number=Sing	10	obl	_	_
+12	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	11	det	_	_
+13	swasana	swasana	NOUN	_	Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = solopos-2022-97
 # text = Freddy nyebut tembang dolanan iku uga dadi perangane karya sastra.
 # text_id = Freddy menyebut lagu mainan juga merupakan karya sastra.
 # text_en = Freddy said that the toy song is also a literary work.
-1	Freddy	_	PROPN	_	_	2	nsubj	_	_
-2	nyebut	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-3	tembang	_	NOUN	_	Number=Sing	7	nsubj	_	_
-4	dolanan	_	NOUN	_	Number=Sing	3	nmod	_	_
-5	iku	_	DET	_	Polite=Infm|PronType=Dem	3	det	_	_
-6	uga	_	ADV	_	Polite=Infm	7	advmod	_	_
-7	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	2	xcomp	_	_
+1	Freddy	freddy	PROPN	_	_	2	nsubj	_	_
+2	nyebut	sebut	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	tembang	tambang	NOUN	_	Number=Sing	7	nsubj	_	_
+4	dolanan	dolan	NOUN	_	Number=Sing	3	nmod	_	_
+5	iku	iku	DET	_	Polite=Infm|PronType=Dem	3	det	_	_
+6	uga	uga	ADV	_	Polite=Infm	7	advmod	_	_
+7	dadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	2	xcomp	_	_
 8-9	perangane	_	_	_	_	_	_	_	_
-8	perangan	_	NOUN	_	Number=Sing	7	obl	_	_
-9	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	8	det	_	_
-10	karya	_	NOUN	_	Number=Sing	8	nmod	_	_
-11	sastra	_	NOUN	_	Number=Sing	10	nmod	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	2	punct	_	_
+8	perangan	perangan	NOUN	_	Number=Sing	7	obl	_	_
+9	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	8	det	_	_
+10	karya	karya	NOUN	_	Number=Sing	8	nmod	_	_
+11	sastra	sastra	NOUN	_	Number=Sing	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = solopos-2022-98
 # text = Nalika semana, Sunan Giri nggiyarake agama Islam ing Indonesia, utamane Pulo Jawa kanthi cara liwat seni kabudayaan.
 # text_id = Pada saat itu, Sunan Giri menyebarkan Islam di Indonesia, khususnya Jawa dengan cara melalui seni budaya.
 # text_en = At that time, Sunan Giri spread Islam in Indonesia, especially Java through cultural arts.
-1	Nalika	_	ADP	_	Polite=Elev	2	case	_	_
-2	semana	_	PRON	_	Polite=Infm|PronType=Dem	6	obl	_	SpaceAfter=No
-3	,	_	PUNCT	_	_	2	punct	_	_
-4	Sunan	_	PROPN	_	_	6	nsubj	_	_
-5	Giri	_	PROPN	_	_	4	flat:name	_	_
-6	nggiyarake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-7	agama	_	NOUN	_	Number=Sing	6	obj	_	_
-8	Islam	_	PROPN	_	_	7	nmod	_	_
-9	ing	_	ADP	_	Polite=Infm	10	case	_	_
-10	Indonesia	_	PROPN	_	_	6	obl	_	SpaceAfter=No
-11	,	_	PUNCT	_	_	13	punct	_	_
-12	utamane	_	ADV	_	Polite=Infm	13	advmod	_	_
-13	Pulo	_	PROPN	_	_	10	nmod	_	_
-14	Jawa	_	PROPN	_	_	13	flat:name	_	_
-15	kanthi	_	ADP	_	Polite=Infm	16	case	_	_
-16	cara	_	NOUN	_	Number=Sing	6	obl	_	_
-17	liwat	_	VERB	_	Mood=Ind|Voice=Act	16	acl	_	_
-18	seni	_	NOUN	_	Number=Sing	17	obl	_	_
-19	kabudayaan	_	NOUN	_	Number=Sing	18	nmod	_	SpaceAfter=No
-20	.	_	PUNCT	_	_	6	punct	_	_
+1	Nalika	nalika	ADP	_	Polite=Elev	2	case	_	_
+2	semana	semana	PRON	_	Polite=Infm|PronType=Dem	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	Sunan	sunan	PROPN	_	_	6	nsubj	_	_
+5	Giri	giri	PROPN	_	_	4	flat:name	_	_
+6	nggiyarake	giyar	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+7	agama	agama	NOUN	_	Number=Sing	6	obj	_	_
+8	Islam	islam	PROPN	_	_	7	nmod	_	_
+9	ing	ing	ADP	_	Polite=Infm	10	case	_	_
+10	Indonesia	indonesia	PROPN	_	_	6	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	utamane	utama	ADV	_	Polite=Infm	13	advmod	_	_
+13	Pulo	pulo	PROPN	_	_	10	nmod	_	_
+14	Jawa	jawa	PROPN	_	_	13	flat:name	_	_
+15	kanthi	kanthi	ADP	_	Polite=Infm	16	case	_	_
+16	cara	cara	NOUN	_	Number=Sing	6	obl	_	_
+17	liwat	liwat	VERB	_	Mood=Ind|Voice=Act	16	acl	_	_
+18	seni	seni	NOUN	_	Number=Sing	17	obl	_	_
+19	kabudayaan	budaya	NOUN	_	Number=Sing	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = solopos-2022-99
 # text = Tembang dolanan Cublak-cublak Suweng iku kabeh nganggo basa Jawa.
 # text_id = Lagu-lagu mainan Cublak-cublak Suweng semuanya berbahasa Jawa.
 # text_en = Cublak-cublak toy songs Suweng all speak Javanese.
-1	Tembang	_	NOUN	_	Number=Sing	7	nsubj	_	_
-2	dolanan	_	NOUN	_	Number=Sing	1	nmod	_	_
-3	Cublak-cublak	_	PROPN	_	_	1	nmod	_	_
-4	Suweng	_	PROPN	_	_	3	flat:name	_	_
-5	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-6	kabeh	_	PRON	_	Polite=Infm|PronType=Tot	1	nmod	_	_
-7	nganggo	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-8	basa	_	NOUN	_	Number=Sing	7	obj	_	_
-9	Jawa	_	PROPN	_	_	8	nmod	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	7	punct	_	_
+1	Tembang	tembang	NOUN	_	Number=Sing	7	nsubj	_	_
+2	dolanan	dolanan	NOUN	_	Number=Sing	1	nmod	_	_
+3	Cublak-cublak	cublak	PROPN	_	_	1	nmod	_	_
+4	Suweng	suweng	PROPN	_	_	3	flat:name	_	_
+5	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+6	kabeh	kabeh	PRON	_	Polite=Infm|PronType=Tot	1	nmod	_	_
+7	nganggo	anggo	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	basa	basa	NOUN	_	Number=Sing	7	obj	_	_
+9	Jawa	jawa	PROPN	_	_	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = solopos-2022-100
 # text = Mbak Kanthi kang lagi maca buku ing jero kamar, krungu bengokane bocah-bocah.
 # text_id = Mbak Kanthi yang sedang membaca buku di kamar, mendengar teriakan anak-anak.
 # text_en = Mbak Kanthi, who was reading a book in her room, heard the screams of the children.
-1	Mbak	_	PROPN	_	_	11	nsubj	_	_
-2	Kanthi	_	PROPN	_	_	1	flat:name	_	_
-3	kang	_	PRON	_	Polite=Infm|PronType=Rel	5	nsubj	_	_
-4	lagi	_	AUX	_	Polite=Infm	5	aux	_	_
-5	maca	_	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
-6	buku	_	NOUN	_	Number=Sing	5	obj	_	_
-7	ing	_	ADP	_	Polite=Infm	9	case	_	_
-8	jero	_	NOUN	_	Number=Sing	9	nmod:lmod	_	_
-9	kamar	_	NOUN	_	Number=Sing	5	obl	_	SpaceAfter=No
-10	,	_	PUNCT	_	_	11	punct	_	_
-11	krungu	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+1	Mbak	mbak	PROPN	_	_	11	nsubj	_	_
+2	Kanthi	kanthi	PROPN	_	_	1	flat:name	_	_
+3	kang	kang	PRON	_	Polite=Infm|PronType=Rel	5	nsubj	_	_
+4	lagi	lagi	AUX	_	Polite=Infm	5	aux	_	_
+5	maca	waca	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
+6	buku	buku	NOUN	_	Number=Sing	5	obj	_	_
+7	ing	ing	ADP	_	Polite=Infm	9	case	_	_
+8	jero	jero	NOUN	_	Number=Sing	9	nmod:lmod	_	_
+9	kamar	kamar	NOUN	_	Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	krungu	krungu	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 12-13	bengokane	_	_	_	_	_	_	_	_
-12	bengokan	_	NOUN	_	Number=Sing	11	obj	_	_
-13	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	12	det	_	_
-14	bocah-bocah	_	NOUN	_	Number=Plur|Polite=Infm	12	nmod:poss	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	11	punct	_	_
+12	bengokan	bengok	NOUN	_	Number=Sing	11	obj	_	_
+13	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	12	det	_	_
+14	bocah-bocah	bocah	NOUN	_	Number=Plur|Polite=Infm	12	nmod:poss	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = solopos-2022-101
 # text = Gambar relief ing gang utama RT 007 /RW 010 Kampung Hepi Joho, Manahan, Banjarsari, Solo, kang nyritakake sujarah abad XVIII nganti jaman kamardikan, Rabu (1/6/2022).
 # text_id = Relief di gang utama RT 007/RW 010 Kampung Hepi Joho, Manahan, Banjarsari, Solo yang menceritakan sejarah abad XVIII hingga era kemerdekaan, Rabu (1/6/2022).
 # text_en = Relief in the main alley of RT 007/RW 010 Kampung Hepi Joho, Manahan, Banjarsari, Solo which tells the history of the XVIII century to the era of independence, Wednesday (1/6/2022).
-1	Gambar	_	NOUN	_	Number=Sing	0	root	_	_
-2	relief	_	NOUN	_	Number=Sing	1	nmod	_	_
-3	ing	_	ADP	_	Polite=Infm	4	case	_	_
-4	gang	_	NOUN	_	Number=Sing	1	nmod	_	_
-5	utama	_	ADJ	_	_	4	amod	_	_
-6	RT	_	PROPN	_	_	4	nmod	_	_
-7	007	_	NUM	_	NumType=Card	6	nummod	_	_
-8	/	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	RW	_	PROPN	_	_	6	nmod	_	_
-10	010	_	NUM	_	NumType=Card	9	nummod	_	_
-11	Kampung	_	PROPN	_	_	6	nmod	_	_
-12	Hepi	_	PROPN	_	_	11	flat:name	_	_
-13	Joho	_	PROPN	_	_	11	flat:name	_	SpaceAfter=No
-14	,	_	PUNCT	_	_	15	punct	_	_
-15	Manahan	_	PROPN	_	_	11	nmod	_	SpaceAfter=No
-16	,	_	PUNCT	_	_	17	punct	_	_
-17	Banjarsari	_	PROPN	_	_	11	nmod	_	SpaceAfter=No
-18	,	_	PUNCT	_	_	19	punct	_	_
-19	Solo	_	PROPN	_	_	11	nmod	_	SpaceAfter=No
-20	,	_	PUNCT	_	_	22	punct	_	_
-21	kang	_	PRON	_	Polite=Infm|PronType=Rel	22	nsubj	_	_
-22	nyritakake	_	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
-23	sujarah	_	NOUN	_	Number=Sing	22	obj	_	_
-24	abad	_	NOUN	_	Number=Sing	23	nmod	_	_
-25	XVIII	_	NUM	_	NumType=Card	24	nummod	_	_
-26	nganti	_	ADP	_	Polite=Infm	27	case	_	_
-27	jaman	_	NOUN	_	Number=Sing	23	nmod	_	_
-28	kamardikan	_	NOUN	_	Number=Sing	27	nmod	_	SpaceAfter=No
-29	,	_	PUNCT	_	_	30	punct	_	_
-30	Rabu	_	PROPN	_	_	1	parataxis	_	_
-31	(	_	PUNCT	_	_	32	punct	_	SpaceAfter=No
-32	1	_	NUM	_	NumType=Card	30	appos	_	SpaceAfter=No
-33	/	_	PUNCT	_	_	34	punct	_	SpaceAfter=No
-34	6	_	NUM	_	NumType=Card	32	flat	_	SpaceAfter=No
-35	/	_	PUNCT	_	_	36	punct	_	SpaceAfter=No
-36	2022	_	NUM	_	NumType=Card	32	flat	_	SpaceAfter=No
-37	)	_	PUNCT	_	_	32	punct	_	SpaceAfter=No
-38	.	_	PUNCT	_	_	1	punct	_	_
+1	Gambar	gambar	NOUN	_	Number=Sing	0	root	_	_
+2	relief	relief	NOUN	_	Number=Sing	1	nmod	_	_
+3	ing	ing	ADP	_	Polite=Infm	4	case	_	_
+4	gang	gang	NOUN	_	Number=Sing	1	nmod	_	_
+5	utama	utama	ADJ	_	_	4	amod	_	_
+6	RT	rt	PROPN	_	_	4	nmod	_	_
+7	007	007	NUM	_	NumType=Card	6	nummod	_	_
+8	/	/	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	RW	rw	PROPN	_	_	6	nmod	_	_
+10	010	010	NUM	_	NumType=Card	9	nummod	_	_
+11	Kampung	kampung	PROPN	_	_	6	nmod	_	_
+12	Hepi	hepi	PROPN	_	_	11	flat:name	_	_
+13	Joho	joho	PROPN	_	_	11	flat:name	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	Manahan	manahan	PROPN	_	_	11	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	Banjarsari	banjarsari	PROPN	_	_	11	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	Solo	solo	PROPN	_	_	11	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	kang	kang	PRON	_	Polite=Infm|PronType=Rel	22	nsubj	_	_
+22	nyritakake	crita	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
+23	sujarah	sujarah	NOUN	_	Number=Sing	22	obj	_	_
+24	abad	abad	NOUN	_	Number=Sing	23	nmod	_	_
+25	XVIII	xviii	NUM	_	NumType=Card	24	nummod	_	_
+26	nganti	anti	ADP	_	Polite=Infm	27	case	_	_
+27	jaman	jaman	NOUN	_	Number=Sing	23	nmod	_	_
+28	kamardikan	mardika	NOUN	_	Number=Sing	27	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	Rabu	rabu	PROPN	_	_	1	parataxis	_	_
+31	(	(	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	1	1	NUM	_	NumType=Card	30	appos	_	SpaceAfter=No
+33	/	/	PUNCT	_	_	34	punct	_	SpaceAfter=No
+34	6	6	NUM	_	NumType=Card	32	flat	_	SpaceAfter=No
+35	/	/	PUNCT	_	_	36	punct	_	SpaceAfter=No
+36	2022	2022	NUM	_	NumType=Card	32	flat	_	SpaceAfter=No
+37	)	)	PUNCT	_	_	32	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = solopos-2022-102
 # text = Relief utawa gambar kang nemplek ing tembok omahe warga ana tulisane “Tanah Jawa Abad XVIII.”
 # text_id = Relief atau gambar yang menempel pada dinding rumah penduduk tersebut terdapat tulisan “Tanah Jawa Abad XVIII”.
 # text_en = The reliefs or pictures attached to the walls of the residents' houses have the words "Land of Java in the XVIII Century".
-1	Relief	_	NOUN	_	Number=Sing	11	obl	_	_
-2	utawa	_	CCONJ	_	Polite=Infm	3	cc	_	_
-3	gambar	_	NOUN	_	Number=Sing	1	conj	_	_
-4	kang	_	PRON	_	Polite=Infm|PronType=Rel	5	nsubj	_	_
-5	nemplek	_	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
-6	ing	_	ADP	_	Polite=Infm	7	case	_	_
-7	tembok	_	NOUN	_	Number=Sing	5	obl	_	_
+1	Relief	relief	NOUN	_	Number=Sing	11	obl	_	_
+2	utawa	utawa	CCONJ	_	Polite=Infm	3	cc	_	_
+3	gambar	gambar	NOUN	_	Number=Sing	1	conj	_	_
+4	kang	kang	PRON	_	Polite=Infm|PronType=Rel	5	nsubj	_	_
+5	nemplek	templek	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
+6	ing	ing	ADP	_	Polite=Infm	7	case	_	_
+7	tembok	tembok	NOUN	_	Number=Sing	5	obl	_	_
 8-9	omahe	_	_	_	_	_	_	_	_
-8	omah	_	NOUN	_	Number=Sing|Polite=Infm	7	nmod	_	_
-9	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	8	nmod:poss	_	_
-10	warga	_	NOUN	_	Number=Sing|Polite=Infm	8	nmod	_	_
-11	ana	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	omah	omah	NOUN	_	Number=Sing|Polite=Infm	7	nmod	_	_
+9	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	8	nmod:poss	_	_
+10	warga	warga	NOUN	_	Number=Sing|Polite=Infm	8	nmod	_	_
+11	ana	ana	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 12-13	tulisane	_	_	_	_	_	_	_	_
-12	tulisan	_	NOUN	_	Number=Sing	11	nsubj	_	_
-13	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	12	det	_	_
-14	“	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-15	Tanah	_	NOUN	_	Number=Sing	12	nmod	_	_
-16	Jawa	_	PROPN	_	_	15	nmod	_	_
-17	Abad	_	NOUN	_	Number=Sing	15	nmod	_	_
-18	XVIII	_	NUM	_	NumType=Card	17	nummod	_	SpaceAfter=No
-19	.	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-20	”	_	PUNCT	_	_	15	punct	_	_
+12	tulisan	tulis	NOUN	_	Number=Sing	11	nsubj	_	_
+13	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	12	det	_	_
+14	“	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	Tanah	tanah	NOUN	_	Number=Sing	12	nmod	_	_
+16	Jawa	jawa	PROPN	_	_	15	nmod	_	_
+17	Abad	abad	NOUN	_	Number=Sing	15	nmod	_	_
+18	XVIII	xviii	NUM	_	NumType=Card	17	nummod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	15	punct	_	SpaceAfter=No
+20	”	"	PUNCT	_	_	15	punct	_	_
 
 # sent_id = solopos-2022-103
 # text = Relief kuwi ana ing sadawaning gang nuju Kampung Hepi Joho lan nyritakake rikala jaman penjajahan Walanda nganti dumadine Kutha Solo.
 # text_id = Relief tersebut terletak di sepanjang gang menuju Kampung Hepi Joho dan menceritakan kisah masa penjajahan Belanda hingga berdirinya Kota Solo.
 # text_en = The reliefs are located along the alley leading to Kampung Hepi Joho and tell the story of the Dutch colonial period until the founding of Solo City.
-1	Relief	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	kuwi	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-3	ana	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	ing	_	ADP	_	Polite=Infm	6	case	_	_
-5	sadawaning	_	NOUN	_	Number=Sing|Polite=Infm	6	nmod:lmod	_	_
-6	gang	_	NOUN	_	Number=Sing	3	obl	_	_
-7	nuju	_	VERB	_	Mood=Ind|Voice=Act	8	case	_	_
-8	Kampung	_	PROPN	_	_	6	nmod	_	_
-9	Hepi	_	PROPN	_	_	8	flat:name	_	_
-10	Joho	_	PROPN	_	_	8	flat:name	_	_
-11	lan	_	CCONJ	_	Polite=Infm	12	cc	_	_
-12	nyritakake	_	VERB	_	Mood=Ind|Voice=Act	3	conj	_	_
-13	rikala	_	NOUN	_	Number=Sing	12	obj	_	_
-14	jaman	_	NOUN	_	Number=Sing	13	nmod	_	_
-15	penjajahan	_	X	_	Foreign=Yes	14	nmod	_	_
-16	Walanda	_	PROPN	_	_	15	nmod	_	_
-17	nganti	_	SCONJ	_	Polite=Infm	18	mark	_	_
+1	Relief	relief	NOUN	_	Number=Sing	3	nsubj	_	_
+2	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+3	ana	ana	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	ing	ing	ADP	_	Polite=Infm	6	case	_	_
+5	sadawaning	dawa	NOUN	_	Number=Sing|Polite=Infm	6	nmod:lmod	_	_
+6	gang	gang	NOUN	_	Number=Sing	3	obl	_	_
+7	nuju	tuju	VERB	_	Mood=Ind|Voice=Act	8	case	_	_
+8	Kampung	kampung	PROPN	_	_	6	nmod	_	_
+9	Hepi	hepi	PROPN	_	_	8	flat:name	_	_
+10	Joho	jono	PROPN	_	_	8	flat:name	_	_
+11	lan	lan	CCONJ	_	Polite=Infm	12	cc	_	_
+12	nyritakake	crita	VERB	_	Mood=Ind|Voice=Act	3	conj	_	_
+13	rikala	rikala	NOUN	_	Number=Sing	12	obj	_	_
+14	jaman	jaman	NOUN	_	Number=Sing	13	nmod	_	_
+15	penjajahan	jajah	X	_	Foreign=Yes	14	nmod	_	_
+16	Walanda	walanda	PROPN	_	_	15	nmod	_	_
+17	nganti	anti	SCONJ	_	Polite=Infm	18	mark	_	_
 18-19	dumadine	_	_	_	_	_	_	_	_
-18	dumadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	13	acl	_	_
-19	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	18	det	_	_
-20	Kutha	_	PROPN	_	_	18	nsubj:pass	_	_
-21	Solo	_	PROPN	_	_	20	flat:name	_	SpaceAfter=No
-22	.	_	PUNCT	_	_	3	punct	_	_
+18	dumadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	13	acl	_	_
+19	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	18	det	_	_
+20	Kutha	kutha	PROPN	_	_	18	nsubj:pass	_	_
+21	Solo	solo	PROPN	_	_	20	flat:name	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = solopos-2022-104
 # text = Relief sujarah iku penere ana ing njero gang nuju Kampung Hepi Joho RT 007/ RW 010 Kelurahan Manahan, Banjarsari, Solo.
 # text_id = Relief bersejarah tersebut berada di dalam gang menuju Kampung Hepi Joho RT 007/ RW 010 Desa Manahan, Banjarsari, Solo.
 # text_en = The historic relief is located in the alley leading to Kampung Hepi Joho RT 007/ RW 010 Manahan Village, Banjarsari, Solo.
-1	Relief	_	NOUN	_	Number=Sing	5	nsubj	_	_
-2	sujarah	_	NOUN	_	Number=Sing	1	nmod	_	_
-3	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-4	penere	_	ADJ	_	Polite=Infm	5	advmod	_	_
-5	ana	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-6	ing	_	ADP	_	Polite=Infm	8	case	_	_
-7	njero	_	NOUN	_	Number=Sing|Polite=Infm	8	nmod:lmod	_	_
-8	gang	_	NOUN	_	Number=Sing	5	obl	_	_
-9	nuju	_	VERB	_	Mood=Ind|Voice=Act	10	case	_	_
-10	Kampung	_	PROPN	_	_	8	nmod	_	_
-11	Hepi	_	PROPN	_	_	10	flat:name	_	_
-12	Joho	_	PROPN	_	_	10	flat:name	_	_
-13	RT	_	PROPN	_	_	10	nmod	_	_
-14	007	_	NUM	_	NumType=Card	13	nummod	_	SpaceAfter=No
-15	/	_	PUNCT	_	_	16	punct	_	_
-16	RW	_	PROPN	_	_	13	nmod	_	_
-17	010	_	NUM	_	NumType=Card	16	nummod	_	_
-18	Kelurahan	_	PROPN	_	_	10	nmod	_	_
-19	Manahan	_	PROPN	_	_	18	flat:name	_	SpaceAfter=No
-20	,	_	PUNCT	_	_	21	punct	_	_
-21	Banjarsari	_	PROPN	_	_	10	nmod	_	SpaceAfter=No
-22	,	_	PUNCT	_	_	23	punct	_	_
-23	Solo	_	PROPN	_	_	10	nmod	_	SpaceAfter=No
-24	.	_	PUNCT	_	_	5	punct	_	_
+1	Relief	relief	NOUN	_	Number=Sing	5	nsubj	_	_
+2	sujarah	sujarah	NOUN	_	Number=Sing	1	nmod	_	_
+3	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+4	penere	penere	ADJ	_	Polite=Infm	5	advmod	_	_
+5	ana	ana	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	ing	ing	ADP	_	Polite=Infm	8	case	_	_
+7	njero	jero	NOUN	_	Number=Sing|Polite=Infm	8	nmod:lmod	_	_
+8	gang	gang	NOUN	_	Number=Sing	5	obl	_	_
+9	nuju	tuju	VERB	_	Mood=Ind|Voice=Act	10	case	_	_
+10	Kampung	kampung	PROPN	_	_	8	nmod	_	_
+11	Hepi	hepi	PROPN	_	_	10	flat:name	_	_
+12	Joho	joho	PROPN	_	_	10	flat:name	_	_
+13	RT	rt	PROPN	_	_	10	nmod	_	_
+14	007	007	NUM	_	NumType=Card	13	nummod	_	SpaceAfter=No
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	RW	rw	PROPN	_	_	13	nmod	_	_
+17	010	010	NUM	_	NumType=Card	16	nummod	_	_
+18	Kelurahan	kelurahan	PROPN	_	_	10	nmod	_	_
+19	Manahan	manahan	PROPN	_	_	18	flat:name	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	Banjarsari	banjarsari	PROPN	_	_	10	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	Solo	solo	PROPN	_	_	10	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = solopos-2022-105
 # text = Ketua RT 007, Yunus Ariseno, 50, mratelakake relief kang digambarake awujud kumpulaning manungsa lan sato kewan iku nyritakake sujarah adeging Kutha Solo.
 # text_id = Ketua RT 007, Yunus Ariseno, 50, mengatakan, relief yang digambarkan berupa kumpulan manusia dan hewan ini menceritakan sejarah berdirinya kota Solo.
 # text_en = Head of RT 007, Yunus Ariseno, 50, said the relief depicted in the form of a collection of humans and animals tells the history of the founding of the city of Solo.
-1	Ketua	_	NOUN	_	Number=Sing	10	nsubj	_	_
-2	RT	_	PROPN	_	_	1	nmod	_	_
-3	007	_	NUM	_	NumType=Card	2	nummod	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	5	punct	_	_
-5	Yunus	_	PROPN	_	_	1	appos	_	_
-6	Ariseno	_	PROPN	_	_	5	flat:name	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	8	punct	_	_
-8	50	_	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
-9	,	_	PUNCT	_	_	10	punct	_	_
-10	mratelakake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-11	relief	_	NOUN	_	Number=Sing	21	nsubj	_	_
-12	kang	_	PRON	_	Polite=Infm|PronType=Rel	13	nsubj:pass	_	_
-13	digambarake	_	VERB	_	Mood=Ind|Voice=Pass	11	acl:relcl	_	_
-14	awujud	_	VERB	_	Mood=Ind|Voice=Act	13	xcomp	_	_
-15	kumpulaning	_	NOUN	_	Number=Sing	16	nmod	_	_
-16	manungsa	_	NOUN	_	Number=Sing	14	obl	_	_
-17	lan	_	CCONJ	_	Polite=Infm	19	cc	_	_
-18	sato	_	NOUN	_	Number=Sing	19	nmod	_	_
-19	kewan	_	NOUN	_	Number=Sing	16	conj	_	_
-20	iku	_	DET	_	Polite=Infm|PronType=Dem	11	det	_	_
-21	nyritakake	_	VERB	_	Mood=Ind|Voice=Act	10	ccomp	_	_
-22	sujarah	_	NOUN	_	Number=Sing	21	obj	_	_
-23	adeging	_	NOUN	_	Number=Sing	22	nmod	_	_
-24	Kutha	_	PROPN	_	_	23	nmod	_	_
-25	Solo	_	PROPN	_	_	24	flat:name	_	SpaceAfter=No
-26	.	_	PUNCT	_	_	10	punct	_	_
+1	Ketua	ketua	NOUN	_	Number=Sing	10	nsubj	_	_
+2	RT	rt	PROPN	_	_	1	nmod	_	_
+3	007	007	NUM	_	NumType=Card	2	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Yunus	yunus	PROPN	_	_	1	appos	_	_
+6	Ariseno	ariseno	PROPN	_	_	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	50	50	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	mratelakake	pratela	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+11	relief	relief	NOUN	_	Number=Sing	21	nsubj	_	_
+12	kang	kang	PRON	_	Polite=Infm|PronType=Rel	13	nsubj:pass	_	_
+13	digambarake	gambar	VERB	_	Mood=Ind|Voice=Pass	11	acl:relcl	_	_
+14	awujud	wujud	VERB	_	Mood=Ind|Voice=Act	13	xcomp	_	_
+15	kumpulaning	kummpul	NOUN	_	Number=Sing	16	nmod	_	_
+16	manungsa	manungsa	NOUN	_	Number=Sing	14	obl	_	_
+17	lan	lan	CCONJ	_	Polite=Infm	19	cc	_	_
+18	sato	sato	NOUN	_	Number=Sing	19	nmod	_	_
+19	kewan	kewan	NOUN	_	Number=Sing	16	conj	_	_
+20	iku	iku	DET	_	Polite=Infm|PronType=Dem	11	det	_	_
+21	nyritakake	crita	VERB	_	Mood=Ind|Voice=Act	10	ccomp	_	_
+22	sujarah	sujarah	NOUN	_	Number=Sing	21	obj	_	_
+23	adeging	adeg	NOUN	_	Number=Sing	22	nmod	_	_
+24	Kutha	kutha	PROPN	_	_	23	nmod	_	_
+25	Solo	solo	PROPN	_	_	24	flat:name	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = solopos-2022-106
 # text = Gambaran iku, ujare Yunus, dicritakake kanthi ringkes supaya dadi sarana piwulang kanggo bocah-bocah, warga, lan sapa wae kang dolan mrono.
 # text_id = Gambar tersebut, kata Yunus, diceritakan secara singkat untuk menjadi sarana pembelajaran bagi anak-anak, warga, dan siapa saja yang berkunjung ke sana.
 # text_en = The picture, said Yunus, was told briefly to be a learning tool for children, residents, and anyone who visits there.
-1	Gambaran	_	NOUN	_	Number=Sing	8	nsubj:pass	_	_
-2	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	SpaceAfter=No
-3	,	_	PUNCT	_	_	4	punct	_	_
+1	Gambaran	gambar	NOUN	_	Number=Sing	8	nsubj:pass	_	_
+2	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
 4-5	ujare	_	_	_	_	_	_	_	_
-4	ujar	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-5	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	4	det	_	_
-6	Yunus	_	PROPN	_	_	4	nsubj	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	4	punct	_	_
-8	dicritakake	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	4	parataxis	_	_
-9	kanthi	_	ADP	_	Polite=Infm	10	case	_	_
-10	ringkes	_	ADJ	_	_	8	advmod	_	_
-11	supaya	_	SCONJ	_	Polite=Infm	12	mark	_	_
-12	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	8	advcl	_	_
-13	sarana	_	NOUN	_	Number=Sing	12	obl	_	_
-14	piwulang	_	NOUN	_	Number=Sing	13	nmod	_	_
-15	kanggo	_	ADP	_	Polite=Infm	16	case	_	_
-16	bocah-bocah	_	NOUN	_	Number=Plur|Polite=Infm	13	nmod	_	SpaceAfter=No
-17	,	_	PUNCT	_	_	18	punct	_	_
-18	warga	_	NOUN	_	Number=Sing|Polite=Infm	16	conj	_	SpaceAfter=No
-19	,	_	PUNCT	_	_	21	punct	_	_
-20	lan	_	CCONJ	_	Polite=Infm	21	cc	_	_
-21	sapa	_	PRON	_	Polite=Infm|PronType=Rel	16	conj	_	_
-22	wae	_	ADV	_	Polite=Infm	21	advmod	_	_
-23	kang	_	PRON	_	Polite=Infm|PronType=Rel	24	nsubj	_	_
-24	dolan	_	VERB	_	Mood=Ind|Voice=Act	21	acl	_	_
-25	mrono	_	ADV	_	_	24	advmod	_	SpaceAfter=No
-26	.	_	PUNCT	_	_	8	punct	_	_
+4	ujar	ujar	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	4	det	_	_
+6	Yunus	yunus	PROPN	_	_	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	dicritakake	crita	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	4	parataxis	_	_
+9	kanthi	kanthi	ADP	_	Polite=Infm	10	case	_	_
+10	ringkes	ringkes	ADJ	_	_	8	advmod	_	_
+11	supaya	supaya	SCONJ	_	Polite=Infm	12	mark	_	_
+12	dadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	8	advcl	_	_
+13	sarana	sarana	NOUN	_	Number=Sing	12	obl	_	_
+14	piwulang	wulang	NOUN	_	Number=Sing	13	nmod	_	_
+15	kanggo	anggo	ADP	_	Polite=Infm	16	case	_	_
+16	bocah-bocah	bocah	NOUN	_	Number=Plur|Polite=Infm	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	warga	warga	NOUN	_	Number=Sing|Polite=Infm	16	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	lan	lan	CCONJ	_	Polite=Infm	21	cc	_	_
+21	sapa	sapa	PRON	_	Polite=Infm|PronType=Rel	16	conj	_	_
+22	wae	wae	ADV	_	Polite=Infm	21	advmod	_	_
+23	kang	kang	PRON	_	Polite=Infm|PronType=Rel	24	nsubj	_	_
+24	dolan	dolan	VERB	_	Mood=Ind|Voice=Act	21	acl	_	_
+25	mrono	kono	ADV	_	_	24	advmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = solopos-2022-107
 # text = Relief kang dawane 15 meter lan nyritakake sujarah Kutha Solo iku digambar dening salah sijining warga Kampung Hepi Joho, Maryanto.
 # text_id = Relief sepanjang 15 meter yang menceritakan sejarah Kota Solo ini digambar oleh salah satu warga Kampung Hepi Joho, Maryanto.
 # text_en = This 15-meter-long relief that tells the history of the city of Solo was drawn by one of the residents of Kampung Hepi Joho, Maryanto.
-1	Relief	_	NOUN	_	Number=Sing	13	nsubj:pass	_	_
-2	kang	_	PRON	_	Polite=Infm|PronType=Rel	6	obl	_	_
+1	Relief	relief	NOUN	_	Number=Sing	13	nsubj:pass	_	_
+2	kang	kang	PRON	_	Polite=Infm|PronType=Rel	6	obl	_	_
 3-4	dawane	_	_	_	_	_	_	_	_
-3	dawa	_	NOUN	_	Number=Sing	6	nsubj	_	_
-4	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	3	det	_	_
-5	15	_	NUM	_	NumType=Card	6	nummod	_	_
-6	meter	_	NOUN	_	Number=Sing	1	acl:relcl	_	_
-7	lan	_	CCONJ	_	Polite=Infm	8	cc	_	_
-8	nyritakake	_	VERB	_	Mood=Ind|Voice=Act	6	conj	_	_
-9	sujarah	_	NOUN	_	Number=Sing	8	obj	_	_
-10	Kutha	_	PROPN	_	_	9	nmod	_	_
-11	Solo	_	PROPN	_	_	10	nmod	_	_
-12	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-13	digambar	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
-14	dening	_	ADP	_	Polite=Infm	17	case	_	_
-15	salah	_	ADJ	_	_	16	advmod	_	_
-16	sijining	_	NUM	_	NumType=Card	17	nummod	_	_
-17	warga	_	NOUN	_	Number=Sing|Polite=Infm	13	obl	_	_
-18	Kampung	_	PROPN	_	_	17	nmod	_	_
-19	Hepi	_	PROPN	_	_	18	flat:name	_	_
-20	Joho	_	PROPN	_	_	18	flat:name	_	SpaceAfter=No
-21	,	_	PUNCT	_	_	22	punct	_	_
-22	Maryanto	_	PROPN	_	_	17	appos	_	SpaceAfter=No
-23	.	_	PUNCT	_	_	13	punct	_	_
+3	dawa	dawa	NOUN	_	Number=Sing	6	nsubj	_	_
+4	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	3	det	_	_
+5	15	15	NUM	_	NumType=Card	6	nummod	_	_
+6	meter	meter	NOUN	_	Number=Sing	1	acl:relcl	_	_
+7	lan	lan	CCONJ	_	Polite=Infm	8	cc	_	_
+8	nyritakake	crita	VERB	_	Mood=Ind|Voice=Act	6	conj	_	_
+9	sujarah	sujarah	NOUN	_	Number=Sing	8	obj	_	_
+10	Kutha	kutha	PROPN	_	_	9	nmod	_	_
+11	Solo	solo	PROPN	_	_	10	nmod	_	_
+12	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+13	digambar	gambar	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
+14	dening	dene	ADP	_	Polite=Infm	17	case	_	_
+15	salah	salah	ADJ	_	_	16	advmod	_	_
+16	sijining	siji	NUM	_	NumType=Card	17	nummod	_	_
+17	warga	warga	NOUN	_	Number=Sing|Polite=Infm	13	obl	_	_
+18	Kampung	kampung	PROPN	_	_	17	nmod	_	_
+19	Hepi	hepi	PROPN	_	_	18	flat:name	_	_
+20	Joho	joho	PROPN	_	_	18	flat:name	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	Maryanto	maryanto	PROPN	_	_	17	appos	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = solopos-2022-108
 # text = Critane ya jaman pindhahan saka penjajahan nganti tekan adeging Kutha Solo.
 # text_id = Ceritanya ya masa migrasi dari masa penjajahan sampai berdirinya kota Solo.
 # text_en = The story is about the migration period from the colonial period to the founding of the city of Solo.
 1-2	Critane	_	_	_	_	_	_	_	_
-1	Crita	_	NOUN	_	Number=Sing	4	nsubj	_	_
-2	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	1	det	_	_
-3	ya	_	PART	_	_	4	advmod:emph	_	_
-4	jaman	_	NOUN	_	Number=Sing	0	root	_	_
-5	pindhahan	_	NOUN	_	Number=Sing	4	nmod	_	_
-6	saka	_	ADP	_	Polite=Infm	7	case	_	_
-7	penjajahan	_	X	_	Foreign=Yes	5	nmod	_	_
-8	nganti	_	SCONJ	_	Polite=Infm	9	mark	_	_
-9	tekan	_	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
-10	adeging	_	NOUN	_	Number=Sing	9	obl	_	_
-11	Kutha	_	PROPN	_	_	10	nmod	_	_
-12	Solo	_	PROPN	_	_	11	flat:name	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	4	punct	_	_
+1	Crita	crita	NOUN	_	Number=Sing	4	nsubj	_	_
+2	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	1	det	_	_
+3	ya	ya	PART	_	_	4	advmod:emph	_	_
+4	jaman	jaman	NOUN	_	Number=Sing	0	root	_	_
+5	pindhahan	pindhah	NOUN	_	Number=Sing	4	nmod	_	_
+6	saka	saka	ADP	_	Polite=Infm	7	case	_	_
+7	penjajahan	jajah	X	_	Foreign=Yes	5	nmod	_	_
+8	nganti	anti	SCONJ	_	Polite=Infm	9	mark	_	_
+9	tekan	tekan	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
+10	adeging	adeg	NOUN	_	Number=Sing	9	obl	_	_
+11	Kutha	kutha	PROPN	_	_	10	nmod	_	_
+12	Solo	solo	PROPN	_	_	11	flat:name	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = solopos-2022-109
 # text = "Dicritakake kanthi cekak aos, ya udakara dawane 15 meter,” ujare Maryanto nalika ditemoni Solopos.com, Rebo (1/6/2022).
 # text_id = "Singkatnya, panjangnya sekitar 15 meter," kata Maryanto saat diwawancarai Solopos.com, Rabu (1/6/2022).
 # text_en = "In short, the length is about 15 meters," said Maryanto when interviewed by Solopos.com, Wednesday (1/6/2022).
-1	"	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Dicritakake	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	15	advcl	_	_
-3	kanthi	_	ADP	_	Polite=Infm	4	case:adv	_	_
-4	cekak	_	ADJ	_	_	2	advmod	_	_
-5	aos	_	ADJ	_	_	4	advmod	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	12	punct	_	_
-7	ya	_	PART	_	_	12	advmod:emph	_	_
-8	udakara	_	ADV	_	_	12	advmod	_	_
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Dicritakake	crita	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	15	advcl	_	_
+3	kanthi	kanthi	ADP	_	Polite=Infm	4	case:adv	_	_
+4	cekak	cekak	ADJ	_	_	2	advmod	_	_
+5	aos	aos	ADJ	_	_	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	ya	ya	PART	_	_	12	advmod:emph	_	_
+8	udakara	udakara	ADV	_	_	12	advmod	_	_
 9-10	dawane	_	_	_	_	_	_	_	_
-9	dawa	_	NOUN	_	Number=Sing	12	nsubj	_	_
-10	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	9	det	_	_
-11	15	_	NUM	_	NumType=Card	12	nummod	_	_
-12	meter	_	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
-13	,	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
-14	”	_	PUNCT	_	_	12	punct	_	_
+9	dawa	dawa	NOUN	_	Number=Sing	12	nsubj	_	_
+10	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	9	det	_	_
+11	15	15	NUM	_	NumType=Card	12	nummod	_	_
+12	meter	meter	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	”	"	PUNCT	_	_	12	punct	_	_
 15-16	ujare	_	_	_	_	_	_	_	_
-15	ujar	_	VERB	_	Mood=Ind|Voice=Act	12	parataxis	_	_
-16	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	15	det	_	_
-17	Maryanto	_	PROPN	_	_	15	nsubj	_	_
-18	nalika	_	SCONJ	_	Polite=Elev	19	mark	_	_
-19	ditemoni	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	15	advcl	_	_
-20	Solopos.com	_	PROPN	_	_	19	obl	_	SpaceAfter=No
-21	,	_	PUNCT	_	_	22	punct	_	_
-22	Rebo	_	PROPN	_	_	19	obl:tmod	_	_
-23	(	_	PUNCT	_	_	24	punct	_	SpaceAfter=No
-24	1	_	NUM	_	NumType=Card	22	appos	_	SpaceAfter=No
-25	/	_	PUNCT	_	_	26	punct	_	SpaceAfter=No
-26	6	_	NUM	_	NumType=Card	24	flat	_	SpaceAfter=No
-27	/	_	PUNCT	_	_	28	punct	_	SpaceAfter=No
-28	2022	_	NUM	_	NumType=Card	24	flat	_	SpaceAfter=No
-29	)	_	PUNCT	_	_	24	punct	_	SpaceAfter=No
-30	.	_	PUNCT	_	_	15	punct	_	_
+15	ujar	ujar	VERB	_	Mood=Ind|Voice=Act	12	parataxis	_	_
+16	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	15	det	_	_
+17	Maryanto	maryanto	PROPN	_	_	15	nsubj	_	_
+18	nalika	nalika	SCONJ	_	Polite=Elev	19	mark	_	_
+19	ditemoni	temu	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	15	advcl	_	_
+20	Solopos.com	solopos.com	PROPN	_	_	19	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	Rebo	rebo	PROPN	_	_	19	obl:tmod	_	_
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	1	1	NUM	_	NumType=Card	22	appos	_	SpaceAfter=No
+25	/	/	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	6	6	NUM	_	NumType=Card	24	flat	_	SpaceAfter=No
+27	/	/	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	2022	2022	NUM	_	NumType=Card	24	flat	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = solopos-2022-110
 # text = Relief iku nggambarake perang-perang nalika Geger Pecinan, sodagar bathik, wong tani nganti dumadine Kutha Solo tekan saiki.
 # text_id = Relief tersebut menggambarkan peperangan pada masa Geger Pecinan, pedagang batik, petani hingga berdirinya Kota Solo hingga sekarang.
 # text_en = The reliefs represent wars during the China Riot, batik traders, farmers until the founding of the city of Solo until now.
-1	Relief	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-3	nggambarake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	perang-perang	_	NOUN	_	Number=Plur	3	obj	_	_
-5	nalika	_	ADP	_	Polite=Elev	6	case	_	_
-6	Geger	_	PROPN	_	_	4	nmod	_	_
-7	Pecinan	_	PROPN	_	_	6	flat:name	_	SpaceAfter=No
-8	,	_	PUNCT	_	_	9	punct	_	_
-9	sodagar	_	NOUN	_	Number=Sing	4	conj	_	_
-10	bathik	_	NOUN	_	Number=Sing	9	nmod	_	SpaceAfter=No
-11	,	_	PUNCT	_	_	12	punct	_	_
-12	wong	_	NOUN	_	Number=Sing|Polite=Infm	4	conj	_	_
-13	tani	_	NOUN	_	Number=Sing	12	nmod	_	_
-14	nganti	_	SCONJ	_	Polite=Infm	15	mark	_	_
+1	Relief	relief	NOUN	_	Number=Sing	3	nsubj	_	_
+2	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+3	nggambarake	gambar	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	perang-perang	perang	NOUN	_	Number=Plur	3	obj	_	_
+5	nalika	nalika	ADP	_	Polite=Elev	6	case	_	_
+6	Geger	geger	PROPN	_	_	4	nmod	_	_
+7	Pecinan	pecinan	PROPN	_	_	6	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	sodagar	sodagar	NOUN	_	Number=Sing	4	conj	_	_
+10	bathik	bathik	NOUN	_	Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	wong	wong	NOUN	_	Number=Sing|Polite=Infm	4	conj	_	_
+13	tani	tani	NOUN	_	Number=Sing	12	nmod	_	_
+14	nganti	anti	SCONJ	_	Polite=Infm	15	mark	_	_
 15-16	dumadine	_	_	_	_	_	_	_	_
-15	dumadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	4	conj	_	_
-16	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	15	det	_	_
-17	Kutha	_	PROPN	_	_	15	nsubj:pass	_	_
-18	Solo	_	PROPN	_	_	17	flat:name	_	_
-19	tekan	_	ADP	_	Polite=Infm	20	case	_	_
-20	saiki	_	ADV	_	Polite=Infm|PronType=Dem	15	advmod	_	SpaceAfter=No
-21	.	_	PUNCT	_	_	3	punct	_	_
+15	dumadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	4	conj	_	_
+16	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	15	det	_	_
+17	Kutha	kutha	PROPN	_	_	15	nsubj:pass	_	_
+18	Solo	solo	PROPN	_	_	17	flat:name	_	_
+19	tekan	tekan	ADP	_	Polite=Infm	20	case	_	_
+20	saiki	saiki	ADV	_	Polite=Infm|PronType=Dem	15	advmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = solopos-2022-111
 # text = Yunus mratelakake relief utawa mural kang ana sesambungane karo sujarah iku saliyane kanggo sarana memulang uga dadi pangeling-eling semangate para pahlawan nalika merjuwangake kamardikane Indonesia.
 # text_id = Yunus mengatakan, relief atau mural yang berkaitan dengan sejarah itu selain untuk sarana pengajaran juga menjadi pengingat semangatnya para pahlawan saat memperjuangkan kemerdekaannya Indonesia.
 # text_en = Yunus said reliefs or murals related to history are not only a means of teaching but also a reminder of the spirit of the heroes when fighting for Indonesian independence.
-1	Yunus	_	PROPN	_	_	2	nsubj	_	_
-2	mratelakake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-3	relief	_	NOUN	_	Number=Sing	18	nsubj	_	_
-4	utawa	_	CCONJ	_	Polite=Infm	5	cc	_	_
-5	mural	_	NOUN	_	Number=Sing	3	conj	_	_
-6	kang	_	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
-7	ana	_	VERB	_	Mood=Ind|Voice=Act	3	acl:relcl	_	_
+1	Yunus	yunus	PROPN	_	_	2	nsubj	_	_
+2	mratelakake	pratela	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	relief	relief	NOUN	_	Number=Sing	18	nsubj	_	_
+4	utawa	utawa	CCONJ	_	Polite=Infm	5	cc	_	_
+5	mural	mural	NOUN	_	Number=Sing	3	conj	_	_
+6	kang	kang	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
+7	ana	ana	VERB	_	Mood=Ind|Voice=Act	3	acl:relcl	_	_
 8-9	sesambungane	_	_	_	_	_	_	_	_
-8	sesambungan	_	NOUN	_	Number=Sing	7	obl	_	_
-9	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	8	det	_	_
-10	karo	_	ADP	_	Polite=Infm	11	case	_	_
-11	sujarah	_	NOUN	_	Number=Sing	8	nmod	_	_
-12	iku	_	DET	_	Polite=Infm|PronType=Dem	3	det	_	_
-13	saliyane	_	ADP	_	Polite=Infm	15	case	_	_
-14	kanggo	_	ADP	_	Polite=Infm	15	case	_	_
-15	sarana	_	NOUN	_	Number=Sing	18	obl	_	_
-16	memulang	_	VERB	_	Mood=Ind|Voice=Act	15	acl	_	_
-17	uga	_	ADV	_	Polite=Infm	18	advmod	_	_
-18	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	2	ccomp	_	_
-19	pangeling-eling	_	NOUN	_	Number=Sing	18	obl	_	_
+8	sesambungan	sambung	NOUN	_	Number=Sing	7	obl	_	_
+9	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	8	det	_	_
+10	karo	karo	ADP	_	Polite=Infm	11	case	_	_
+11	sujarah	sujarah	NOUN	_	Number=Sing	8	nmod	_	_
+12	iku	iku	DET	_	Polite=Infm|PronType=Dem	3	det	_	_
+13	saliyane	liya	ADP	_	Polite=Infm	15	case	_	_
+14	kanggo	anggo	ADP	_	Polite=Infm	15	case	_	_
+15	sarana	sarana	NOUN	_	Number=Sing	18	obl	_	_
+16	memulang	wulang	VERB	_	Mood=Ind|Voice=Act	15	acl	_	_
+17	uga	uga	ADV	_	Polite=Infm	18	advmod	_	_
+18	dadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	2	ccomp	_	_
+19	pangeling-eling	eling	NOUN	_	Number=Sing	18	obl	_	_
 20-21	semangate	_	_	_	_	_	_	_	_
-20	semangat	_	NOUN	_	Number=Sing	19	nmod	_	_
-21	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	20	nmod:poss	_	_
-22	para	_	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
-23	pahlawan	_	NOUN	_	Number=Sing	20	nmod	_	_
-24	nalika	_	SCONJ	_	Polite=Elev	25	mark	_	_
-25	merjuwangake	_	VERB	_	Mood=Ind|Voice=Act	20	acl	_	_
+20	semangat	semangat	NOUN	_	Number=Sing	19	nmod	_	_
+21	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	20	nmod:poss	_	_
+22	para	para	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+23	pahlawan	pahlawan	NOUN	_	Number=Sing	20	nmod	_	_
+24	nalika	nalika	SCONJ	_	Polite=Elev	25	mark	_	_
+25	merjuwangake	juang	VERB	_	Mood=Ind|Voice=Act	20	acl	_	_
 26-27	kamardikane	_	_	_	_	_	_	_	_
-26	kamardikan	_	NOUN	_	Number=Sing	25	obj	_	_
-27	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	26	det	_	_
-28	Indonesia	_	PROPN	_	_	26	nmod:poss	_	SpaceAfter=No
-29	.	_	PUNCT	_	_	2	punct	_	_
+26	kamardikan	mardika	NOUN	_	Number=Sing	25	obj	_	_
+27	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	26	det	_	_
+28	Indonesia	indonesia	PROPN	_	_	26	nmod:poss	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = solopos-2022-112
 # text = “Dadi nalika kita nyawang relief iku, pangajabe semangate awake dhewe kanggo njaga kampung iki ajeg ana, kanthi ngleluri, gotong royong, guyub rukun,” ujare.
 # text_id = “Jadi ketika kita melihat reliefnya, harapannya semangat kita untuk menjaga kampung ini tetap ada, dengan bekerja sama, gotong royong, hidup rukun," ujarnya.
 # text_en = "So when we look at the reliefs, we hope that our spirit to protect this village is always there, by working together, helping each other, living in harmony," he said.
-1	“	_	PUNCT	_	_	20	punct	_	SpaceAfter=No
-2	Dadi	_	ADV	_	Polite=Infm	20	advmod	_	_
-3	nalika	_	SCONJ	_	Polite=Elev	5	mark	_	_
-4	kita	_	PRON	_	Number=Plur|Person=1|Polite=Infm|PronType=Prs	5	nsubj	_	_
-5	nyawang	_	VERB	_	Mood=Ind|Voice=Act	20	advcl	_	_
-6	relief	_	NOUN	_	Number=Sing	5	obj	_	_
-7	iku	_	DET	_	Polite=Infm|PronType=Dem	6	det	_	SpaceAfter=No
-8	,	_	PUNCT	_	_	9	punct	_	_
+1	“	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+2	Dadi	dadi	ADV	_	Polite=Infm	20	advmod	_	_
+3	nalika	nalika	SCONJ	_	Polite=Elev	5	mark	_	_
+4	kita	kita	PRON	_	Number=Plur|Person=1|Polite=Infm|PronType=Prs	5	nsubj	_	_
+5	nyawang	sawang	VERB	_	Mood=Ind|Voice=Act	20	advcl	_	_
+6	relief	relief	NOUN	_	Number=Sing	5	obj	_	_
+7	iku	iku	DET	_	Polite=Infm|PronType=Dem	6	det	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
 9-10	pangajabe	_	_	_	_	_	_	_	_
-9	pangajab	_	NOUN	_	Number=Sing	20	obl	_	_
-10	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	9	nmod:poss	_	_
+9	pangajab	pangajab	NOUN	_	Number=Sing	20	obl	_	_
+10	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	9	nmod:poss	_	_
 11-12	semangate	_	_	_	_	_	_	_	_
-11	semangat	_	NOUN	_	Number=Sing	20	nsubj	_	_
-12	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	11	nmod:poss	_	_
-13	awake	_	PRON	_	Number=Plur|Person=1|Polite=Infm|PronType=Prs	11	nmod	_	_
-14	dhewe	_	PRON	_	Polite=Infm	13	compound	_	_
-15	kanggo	_	SCONJ	_	Polite=Infm	16	mark	_	_
-16	njaga	_	VERB	_	Mood=Ind|Voice=Act	11	acl	_	_
-17	kampung	_	NOUN	_	Number=Sing	16	obj	_	_
-18	iki	_	DET	_	Polite=Infm|PronType=Dem	17	det	_	_
-19	ajeg	_	ADJ	_	_	20	advmod	_	_
-20	ana	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No
-21	,	_	PUNCT	_	_	22	punct	_	_
-22	kanthi	_	SCONJ	_	Polite=Infm	23	mark	_	_
-23	ngleluri	_	VERB	_	Mood=Ind|Voice=Act	20	advcl	_	SpaceAfter=No
-24	,	_	PUNCT	_	_	25	punct	_	_
-25	gotong	_	NOUN	_	Number=Sing	23	conj	_	_
-26	royong	_	NOUN	_	Number=Sing	25	nmod	_	SpaceAfter=No
-27	,	_	PUNCT	_	_	28	punct	_	_
-28	guyub	_	NOUN	_	Number=Sing	23	conj	_	_
-29	rukun	_	NOUN	_	Number=Sing	28	compound	_	SpaceAfter=No
-30	,	_	PUNCT	_	_	20	punct	_	SpaceAfter=No
-31	”	_	PUNCT	_	_	20	punct	_	_
+11	semangat	semangat	NOUN	_	Number=Sing	20	nsubj	_	_
+12	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	11	nmod:poss	_	_
+13	awake	awak	PRON	_	Number=Plur|Person=1|Polite=Infm|PronType=Prs	11	nmod	_	_
+14	dhewe	dhewe	PRON	_	Polite=Infm	13	compound	_	_
+15	kanggo	anggo	SCONJ	_	Polite=Infm	16	mark	_	_
+16	njaga	jaga	VERB	_	Mood=Ind|Voice=Act	11	acl	_	_
+17	kampung	kampung	NOUN	_	Number=Sing	16	obj	_	_
+18	iki	iki	DET	_	Polite=Infm|PronType=Dem	17	det	_	_
+19	ajeg	ajeg	ADJ	_	_	20	advmod	_	_
+20	ana	ana	VERB	_	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	kanthi	kanthi	SCONJ	_	Polite=Infm	23	mark	_	_
+23	ngleluri	luri	VERB	_	Mood=Ind|Voice=Act	20	advcl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	gotong	gotong	NOUN	_	Number=Sing	23	conj	_	_
+26	royong	royong	NOUN	_	Number=Sing	25	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	guyub	guyub	NOUN	_	Number=Sing	23	conj	_	_
+29	rukun	rukun	NOUN	_	Number=Sing	28	compound	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	20	punct	_	SpaceAfter=No
+31	”	"	PUNCT	_	_	20	punct	_	_
 32-33	ujare	_	_	_	_	_	_	_	SpaceAfter=No
-32	ujar	_	VERB	_	Mood=Ind|Voice=Act	20	parataxis	_	_
-33	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	32	nsubj	_	_
-34	.	_	PUNCT	_	_	32	punct	_	_
+32	ujar	ujar	VERB	_	Mood=Ind|Voice=Act	20	parataxis	_	_
+33	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	32	nsubj	_	_
+34	.	.	PUNCT	_	_	32	punct	_	_
 
 # sent_id = solopos-2022-113
 # text = Sanajan awake dhewe ora urip ing abad kaping-18, surasane tetep bisa ngrasakake swasana perang rikala semana.
 # text_id = Meski kita tidak hidup di abad ke-18, rasanya masih bisa merasakan suasana perang saat itu.
 # text_en = Even though he didn't live in the 18th century, his voice could still feel the atmosphere of war at that time.
-1	Sanajan	_	SCONJ	_	_	5	mark	_	_
-2	awake	_	PRON	_	Number=Plur|Person=1|Polite=Infm|PronType=Prs	5	nsubj	_	_
-3	dhewe	_	PRON	_	Polite=Infm	2	compound	_	_
-4	ora	_	PART	_	Polarity=Neg|Polite=Infm	5	advmod	_	_
-5	urip	_	VERB	_	Mood=Ind|Voice=Act	15	advcl	_	_
-6	ing	_	ADP	_	Polite=Infm	7	case	_	_
-7	abad	_	NOUN	_	Number=Sing	5	obl:tmod	_	_
-8	kaping	_	ADJ	_	NumType=Ord|Polite=Form	7	amod	_	SpaceAfter=No
-9	-	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	18	_	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
-11	,	_	PUNCT	_	_	12	punct	_	_
-12	surasane	_	ADV	_	Polite=Infm	15	advmod	_	_
-13	tetep	_	ADV	_	_	15	advmod	_	_
-14	bisa	_	AUX	_	Polite=Infm	15	aux	_	_
-15	ngrasakake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-16	swasana	_	NOUN	_	Number=Sing	15	obj	_	_
-17	perang	_	NOUN	_	Number=Sing	16	nmod	_	_
-18	rikala	_	NOUN	_	Number=Sing	17	nmod	_	_
-19	semana	_	DET	_	Polite=Infm|PronType=Dem	18	det	_	SpaceAfter=No
-20	.	_	PUNCT	_	_	15	punct	_	_
+1	Sanajan	sanajan	SCONJ	_	_	5	mark	_	_
+2	awake	awak	PRON	_	Number=Plur|Person=1|Polite=Infm|PronType=Prs	5	nsubj	_	_
+3	dhewe	dhewe	PRON	_	Polite=Infm	2	compound	_	_
+4	ora	ora	PART	_	Polarity=Neg|Polite=Infm	5	advmod	_	_
+5	urip	urip	VERB	_	Mood=Ind|Voice=Act	15	advcl	_	_
+6	ing	ing	ADP	_	Polite=Infm	7	case	_	_
+7	abad	abad	NOUN	_	Number=Sing	5	obl:tmod	_	_
+8	kaping	ping	ADJ	_	NumType=Ord|Polite=Form	7	amod	_	SpaceAfter=No
+9	-	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	18	18	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	surasane	rasa	ADV	_	Polite=Infm	15	advmod	_	_
+13	tetep	tetep	ADV	_	_	15	advmod	_	_
+14	bisa	bisa	AUX	_	Polite=Infm	15	aux	_	_
+15	ngrasakake	rasa	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+16	swasana	swasana	NOUN	_	Number=Sing	15	obj	_	_
+17	perang	perang	NOUN	_	Number=Sing	16	nmod	_	_
+18	rikala	rikala	NOUN	_	Number=Sing	17	nmod	_	_
+19	semana	semana	DET	_	Polite=Infm|PronType=Dem	18	det	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = solopos-2022-114
 # text = "Kabeh kuwi ditata liwat relief kang edi peni lan ngandhut piwulang rasa kang gampang ditampa dening wong-wong sing padha ngematake,” tambahe.
 # text_id = “Semua itu ditata melalui relief-relief yang sederhana dan mengandung pelajaran rasa yang mudah diterima oleh mereka yang terkesan,” tambahnya.
 # text_en = "Everything is arranged through simple reliefs and contains lessons of taste that are easily accepted by those who are impressed," he added.
-1	"	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Kabeh	_	PRON	_	Polite=Infm|PronType=Tot	4	nsubj:pass	_	_
-3	kuwi	_	DET	_	Polite=Infm|PronType=Dem	2	det	_	_
-4	ditata	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
-5	liwat	_	VERB	_	Mood=Ind|Voice=Act	4	advcl	_	_
-6	relief	_	NOUN	_	Number=Sing	5	obl	_	_
-7	kang	_	PRON	_	Polite=Infm|PronType=Rel	8	nsubj	_	_
-8	edi	_	ADJ	_	_	6	acl:relcl	_	_
-9	peni	_	ADJ	_	_	8	compound	_	_
-10	lan	_	CCONJ	_	Polite=Infm	11	cc	_	_
-11	ngandhut	_	VERB	_	Mood=Ind|Voice=Act	8	conj	_	_
-12	piwulang	_	NOUN	_	Number=Sing	11	obj	_	_
-13	rasa	_	NOUN	_	Number=Sing	12	nmod	_	_
-14	kang	_	PRON	_	Polite=Infm|PronType=Rel	15	nsubj	_	_
-15	gampang	_	ADJ	_	_	12	acl:relcl	_	_
-16	ditampa	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	15	advcl	_	_
-17	dening	_	ADP	_	Polite=Infm	18	case	_	_
-18	wong-wong	_	NOUN	_	Number=Plur|Polite=Infm	16	obl	_	_
-19	sing	_	PRON	_	Polite=Infm|PronType=Rel	21	nsubj	_	_
-20	padha	_	ADJ	_	Polite=Infm	21	advmod	_	_
-21	ngematake	_	VERB	_	Mood=Ind|Voice=Act	18	acl:relcl	_	SpaceAfter=No
-22	,	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-23	”	_	PUNCT	_	_	4	punct	_	_
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Kabeh	kabeh	PRON	_	Polite=Infm|PronType=Tot	4	nsubj:pass	_	_
+3	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	2	det	_	_
+4	ditata	tata	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
+5	liwat	liwat	VERB	_	Mood=Ind|Voice=Act	4	advcl	_	_
+6	relief	relief	NOUN	_	Number=Sing	5	obl	_	_
+7	kang	lang	PRON	_	Polite=Infm|PronType=Rel	8	nsubj	_	_
+8	edi	edi	ADJ	_	_	6	acl:relcl	_	_
+9	peni	peni	ADJ	_	_	8	compound	_	_
+10	lan	lan	CCONJ	_	Polite=Infm	11	cc	_	_
+11	ngandhut	kandhut	VERB	_	Mood=Ind|Voice=Act	8	conj	_	_
+12	piwulang	wulang	NOUN	_	Number=Sing	11	obj	_	_
+13	rasa	rasa	NOUN	_	Number=Sing	12	nmod	_	_
+14	kang	kang	PRON	_	Polite=Infm|PronType=Rel	15	nsubj	_	_
+15	gampang	gampang	ADJ	_	_	12	acl:relcl	_	_
+16	ditampa	tampa	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	15	advcl	_	_
+17	dening	dene	ADP	_	Polite=Infm	18	case	_	_
+18	wong-wong	wong	NOUN	_	Number=Plur|Polite=Infm	16	obl	_	_
+19	sing	sing	PRON	_	Polite=Infm|PronType=Rel	21	nsubj	_	_
+20	padha	padha	ADJ	_	Polite=Infm	21	advmod	_	_
+21	ngematake	kemat	VERB	_	Mood=Ind|Voice=Act	18	acl:relcl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
+23	”	"	PUNCT	_	_	4	punct	_	_
 24-25	tambahe	_	_	_	_	_	_	_	SpaceAfter=No
-24	tambah	_	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
-25	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	24	nsubj	_	_
-26	.	_	PUNCT	_	_	24	punct	_	_
+24	tambah	tambah	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
+25	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	24	nsubj	_	_
+26	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = solopos-2022-115
 # text = Salah siji warga, Lusi, 17, rumangsa melu mongkog bisa dadi warga Kampung Joho.
 # text_id = Salah satu warga, Lusi, 17, merasa ikut bangga bisa menjadi warga Kampung Joho.
 # text_en = One of the residents, Lusi, 17, felt proud that she could become a resident of Kampung Joho.
-1	Salah	_	ADJ	_	_	2	advmod	_	_
-2	siji	_	NUM	_	NumType=Card|Polite=Infm	3	nummod	_	_
-3	warga	_	NOUN	_	Number=Sing|Polite=Infm	9	nsubj	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	5	punct	_	_
-5	Lusi	_	PROPN	_	_	3	appos	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	7	punct	_	_
-7	17	_	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
-8	,	_	PUNCT	_	_	9	punct	_	_
-9	rumangsa	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-10	melu	_	VERB	_	Mood=Ind|Voice=Act	9	xcomp	_	_
-11	mongkog	_	ADJ	_	_	10	xcomp	_	_
-12	bisa	_	AUX	_	Polite=Infm	13	aux	_	_
-13	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	11	advcl	_	_
-14	warga	_	NOUN	_	Number=Sing|Polite=Infm	13	obl	_	_
-15	Kampung	_	PROPN	_	_	14	nmod	_	_
-16	Joho	_	PROPN	_	_	15	flat:name	_	SpaceAfter=No
-17	.	_	PUNCT	_	_	9	punct	_	_
+1	Salah	salah	ADJ	_	_	2	advmod	_	_
+2	siji	siji	NUM	_	NumType=Card|Polite=Infm	3	nummod	_	_
+3	warga	warga	NOUN	_	Number=Sing|Polite=Infm	9	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Lusi	lusi	PROPN	_	_	3	appos	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	17	17	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	rumangsa	rasa	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+10	melu	melu	VERB	_	Mood=Ind|Voice=Act	9	xcomp	_	_
+11	mongkog	mongkog	ADJ	_	_	10	xcomp	_	_
+12	bisa	bisa	AUX	_	Polite=Infm	13	aux	_	_
+13	dadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	11	advcl	_	_
+14	warga	warga	NOUN	_	Number=Sing|Polite=Infm	13	obl	_	_
+15	Kampung	kampung	PROPN	_	_	14	nmod	_	_
+16	Joho	joho	PROPN	_	_	15	flat:name	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = solopos-2022-116
 # text = Mongkoging ati iku amarga ana karya seni sing miturut panemune ora bisa ditemokake ing dhaerah seje.
 # text_id = Kebanggaan hati itu dikarenakan ada karya seni yang menurut pendapatnya tidak bisa ditemukan di tempat lain.
 # text_en = The pride is because there is a work of art that according to him cannot be found anywhere else.
-1	Mongkoging	_	NOUN	_	Number=Sing	5	nsubj	_	_
-2	ati	_	NOUN	_	Number=Sing|Polite=Infm	1	nmod	_	_
-3	iku	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-4	amarga	_	SCONJ	_	Polite=Infm	5	mark	_	_
-5	ana	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-6	karya	_	NOUN	_	Number=Sing	5	obl	_	_
-7	seni	_	NOUN	_	Number=Sing	6	nmod	_	_
-8	sing	_	PRON	_	Polite=Infm|PronType=Rel	14	nsubj:pass	_	_
-9	miturut	_	VERB	_	Mood=Ind|Voice=Act	14	advcl	_	_
+1	Mongkoging	mongkog	NOUN	_	Number=Sing	5	nsubj	_	_
+2	ati	ati	NOUN	_	Number=Sing|Polite=Infm	1	nmod	_	_
+3	iku	iku	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+4	amarga	amarga	SCONJ	_	Polite=Infm	5	mark	_	_
+5	ana	ana	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	karya	karya	NOUN	_	Number=Sing	5	obl	_	_
+7	seni	seni	NOUN	_	Number=Sing	6	nmod	_	_
+8	sing	sing	PRON	_	Polite=Infm|PronType=Rel	14	nsubj:pass	_	_
+9	miturut	turut	VERB	_	Mood=Ind|Voice=Act	14	advcl	_	_
 10-11	panemune	_	_	_	_	_	_	_	_
-10	panemu	_	NOUN	_	Number=Sing	9	obl	_	_
-11	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	10	nmod:poss	_	_
-12	ora	_	PART	_	Polarity=Neg|Polite=Infm	14	advmod	_	_
-13	bisa	_	AUX	_	Polite=Infm	14	aux	_	_
-14	ditemokake	_	VERB	_	Mood=Ind|Voice=Pass	6	acl:relcl	_	_
-15	ing	_	ADP	_	Polite=Infm	16	case	_	_
-16	dhaerah	_	NOUN	_	Number=Sing	14	obl	_	_
-17	seje	_	ADJ	_	Polite=Infm	16	amod	_	SpaceAfter=No
-18	.	_	PUNCT	_	_	5	punct	_	_
+10	panemu	temu	NOUN	_	Number=Sing	9	obl	_	_
+11	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	10	nmod:poss	_	_
+12	ora	ora	PART	_	Polarity=Neg|Polite=Infm	14	advmod	_	_
+13	bisa	bisa	AUX	_	Polite=Infm	14	aux	_	_
+14	ditemokake	temu	VERB	_	Mood=Ind|Voice=Pass	6	acl:relcl	_	_
+15	ing	ing	ADP	_	Polite=Infm	16	case	_	_
+16	dhaerah	dhaerah	NOUN	_	Number=Sing	14	obl	_	_
+17	seje	seje	ADJ	_	Polite=Infm	16	amod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = solopos-2022-117
 # text = Aku rumangsa kabegjan amarga bisa melu ngematake karya-karya kang nggambarake sujarah.
 # text_id = Saya merasa bahagia karena dapat ikut berpartisipasi dalam karya-karya mengesankan yang mencerminkan sejarah.
 # text_en = I feel happy because I can participate in impressive works that reflect history.
-1	Aku	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	2	nsubj	_	_
-2	rumangsa	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-3	kabegjan	_	NOUN	_	Number=Sing	2	obj	_	_
-4	amarga	_	SCONJ	_	Polite=Infm	6	mark	_	_
-5	bisa	_	AUX	_	Polite=Infm	6	aux	_	_
-6	melu	_	VERB	_	Mood=Ind|Voice=Act	2	advcl	_	_
-7	ngematake	_	VERB	_	Mood=Ind|Voice=Act	6	xcomp	_	_
-8	karya-karya	_	NOUN	_	Number=Plur	7	obj	_	_
-9	kang	_	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
-10	nggambarake	_	VERB	_	Mood=Ind|Voice=Act	8	acl:relcl	_	_
-11	sujarah	_	NOUN	_	Number=Sing	10	obj	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	2	punct	_	_
+1	Aku	aku	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	2	nsubj	_	_
+2	rumangsa	rasa	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	kabegjan	beja	NOUN	_	Number=Sing	2	obj	_	_
+4	amarga	amarga	SCONJ	_	Polite=Infm	6	mark	_	_
+5	bisa	bisa	AUX	_	Polite=Infm	6	aux	_	_
+6	melu	melu	VERB	_	Mood=Ind|Voice=Act	2	advcl	_	_
+7	ngematake	kemat	VERB	_	Mood=Ind|Voice=Act	6	xcomp	_	_
+8	karya-karya	karya	NOUN	_	Number=Plur	7	obj	_	_
+9	kang	kang	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
+10	nggambarake	gambar	VERB	_	Mood=Ind|Voice=Act	8	acl:relcl	_	_
+11	sujarah	sujarah	NOUN	_	Number=Sing	10	obj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = solopos-2022-118
 # text = Karyane apik, bisa kanggo bahan crita nalika ana kanca dolan mrene.
 # text_id = Karyanya bagus, bisa dijadikan bahan cerita saat teman berkunjung ke sini.
 # text_en = His work is good, it can be used as material for stories when friends visit here.
 1-2	Karyane	_	_	_	_	_	_	_	_
-1	Karya	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
-3	apik	_	ADJ	_	Polite=Infm	0	root	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	6	punct	_	_
-5	bisa	_	AUX	_	Polite=Infm	6	aux	_	_
-6	kanggo	_	VERB	_	Mood=Ind|Voice=Act	3	xcomp	_	_
-7	bahan	_	NOUN	_	Number=Sing	6	obl	_	_
-8	crita	_	NOUN	_	Number=Sing	7	nmod	_	_
-9	nalika	_	SCONJ	_	Polite=Elev	10	mark	_	_
-10	ana	_	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	_
-11	kanca	_	NOUN	_	Number=Sing|Polite=Infm	12	nsubj	_	_
-12	dolan	_	VERB	_	Mood=Ind|Voice=Act	10	csubj	_	_
-13	mrene	_	ADV	_	Polite=Infm|PronType=Dem	12	advmod	_	SpaceAfter=No
-14	.	_	PUNCT	_	_	3	punct	_	_
+1	Karya	karya	NOUN	_	Number=Sing	3	nsubj	_	_
+2	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
+3	apik	apik	ADJ	_	Polite=Infm	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	bisa	bisa	AUX	_	Polite=Infm	6	aux	_	_
+6	kanggo	anggo	VERB	_	Mood=Ind|Voice=Act	3	xcomp	_	_
+7	bahan	bahan	NOUN	_	Number=Sing	6	obl	_	_
+8	crita	crita	NOUN	_	Number=Sing	7	nmod	_	_
+9	nalika	nalika	SCONJ	_	Polite=Elev	10	mark	_	_
+10	ana	ana	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	_
+11	kanca	kanca	NOUN	_	Number=Sing|Polite=Infm	12	nsubj	_	_
+12	dolan	dolan	VERB	_	Mood=Ind|Voice=Act	10	csubj	_	_
+13	mrene	kene	ADV	_	Polite=Infm|PronType=Dem	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = solopos-2022-119
 # text = "Bisa dakpameri,” ujare Lusi.
 # text_id = "Saya bisa pamer," kata Lusi.
 # text_en = "I can show off," said Lusi.
-1	"	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Bisa	_	AUX	_	Polite=Infm	4	aux	_	_
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Bisa	bisa	AUX	_	Polite=Infm	4	aux	_	_
 3-4	dakpameri	_	_	_	_	_	_	_	SpaceAfter=No
-3	dak	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	4	nsubj	_	_
-4	pameri	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-5	,	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-6	”	_	PUNCT	_	_	4	punct	_	_
+3	dak	dak	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	4	nsubj	_	_
+4	pameri	pamer	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	”	"	PUNCT	_	_	4	punct	_	_
 7-8	ujare	_	_	_	_	_	_	_	_
-7	ujar	_	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
-8	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
-9	Lusi	_	PROPN	_	_	7	nsubj	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	7	punct	_	_
+7	ujar	ujar	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
+8	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
+9	Lusi	lusi	PROPN	_	_	7	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = solopos-2022-120
 # text = Warga liyane, Maryani, 40, ngajab supaya kawula mudha ora nganti lali sujarahe dhewe.
 # text_id = Warga lainnya, Maryani, 40, berharap supaya generasi muda tidak melupakan sejarahnya sendiri.
 # text_en = Another resident, Maryani, 40, hopes that the young generation will not forget their own history.
-1	Warga	_	NOUN	_	Number=Sing|Polite=Infm	9	nsubj	_	_
+1	Warga	warga	NOUN	_	Number=Sing|Polite=Infm	9	nsubj	_	_
 2-3	liyane	_	_	_	_	_	_	_	SpaceAfter=No
-2	liya	_	ADJ	_	Polite=Infm	1	amod	_	_
-3	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	2	det	_	_
-4	,	_	PUNCT	_	_	5	punct	_	_
-5	Maryani	_	PROPN	_	_	1	appos	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	7	punct	_	_
-7	40	_	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
-8	,	_	PUNCT	_	_	9	punct	_	_
-9	ngajab	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-10	supaya	_	SCONJ	_	Polite=Infm	15	mark	_	_
-11	kawula	_	NOUN	_	Number=Sing	15	nsubj	_	_
-12	mudha	_	ADJ	_	_	11	amod	_	_
-13	ora	_	PART	_	Polarity=Neg|Polite=Infm	15	advmod	_	_
-14	nganti	_	SCONJ	_	Polite=Infm	15	mark	_	_
-15	lali	_	VERB	_	Mood=Ind|Voice=Act	9	ccomp	_	_
+2	liya	liya	ADJ	_	Polite=Infm	1	amod	_	_
+3	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	2	det	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Maryani	maryani	PROPN	_	_	1	appos	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	40	40	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	ngajab	pangajab	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+10	supaya	supaya	SCONJ	_	Polite=Infm	15	mark	_	_
+11	kawula	kawula	NOUN	_	Number=Sing	15	nsubj	_	_
+12	mudha	mudha	ADJ	_	_	11	amod	_	_
+13	ora	ora	PART	_	Polarity=Neg|Polite=Infm	15	advmod	_	_
+14	nganti	anti	SCONJ	_	Polite=Infm	15	mark	_	_
+15	lali	lali	VERB	_	Mood=Ind|Voice=Act	9	ccomp	_	_
 16-17	sujarahe	_	_	_	_	_	_	_	_
-16	sujarah	_	NOUN	_	Number=Sing	15	obj	_	_
-17	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	16	nmod:poss	_	_
-18	dhewe	_	DET	_	Polite=Infm|PronType=Emp	16	det	_	SpaceAfter=No
-19	.	_	PUNCT	_	_	9	punct	_	_
+16	sujarah	sujarah	NOUN	_	Number=Sing	15	obj	_	_
+17	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	16	nmod:poss	_	_
+18	dhewe	dhewe	DET	_	Polite=Infm|PronType=Emp	16	det	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = solopos-2022-121
 # text = Muga-muga liwat sarana gambar iku, bocah-bocah nom saiki gelem sinau maneh, mligine sujarah ing Kutha Solo.
 # text_id = Saya berharap melalui sarana citra itu, anak-anak muda sekarang mau belajar lagi, khususnya sejarah Kota Solo.
 # text_en = I hope that through this image facility, young people are now willing to learn more, especially the history of the city of Solo.
-1	Muga-muga	_	ADV	_	Polite=Infm	10	advmod	_	_
-2	liwat	_	VERB	_	Mood=Ind|Voice=Act	10	advcl	_	_
-3	sarana	_	NOUN	_	Number=Sing	2	obl	_	_
-4	gambar	_	NOUN	_	Number=Sing	3	nmod	_	_
-5	iku	_	DET	_	Polite=Infm|PronType=Dem	3	det	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	7	punct	_	_
-7	bocah-bocah	_	NOUN	_	Number=Plur|Polite=Infm	10	nsubj	_	_
-8	nom	_	ADJ	_	Polite=Infm	7	amod	_	_
-9	saiki	_	ADV	_	Polite=Infm|PronType=Dem	7	advmod	_	_
-10	gelem	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-11	sinau	_	VERB	_	Mood=Ind|Voice=Act	10	xcomp	_	_
-12	maneh	_	ADV	_	Polite=Infm	11	advmod	_	SpaceAfter=No
-13	,	_	PUNCT	_	_	14	punct	_	_
-14	mligine	_	ADV	_	_	15	advmod	_	_
-15	sujarah	_	NOUN	_	Number=Sing	11	obl	_	_
-16	ing	_	ADP	_	Polite=Infm	17	case	_	_
-17	Kutha	_	PROPN	_	_	15	nmod	_	_
-18	Solo	_	PROPN	_	_	17	flat:name	_	SpaceAfter=No
-19	.	_	PUNCT	_	_	10	punct	_	_
+1	Muga-muga	muga	ADV	_	Polite=Infm	10	advmod	_	_
+2	liwat	liwat	VERB	_	Mood=Ind|Voice=Act	10	advcl	_	_
+3	sarana	sarana	NOUN	_	Number=Sing	2	obl	_	_
+4	gambar	gambar	NOUN	_	Number=Sing	3	nmod	_	_
+5	iku	iku	DET	_	Polite=Infm|PronType=Dem	3	det	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	bocah-bocah	bocah	NOUN	_	Number=Plur|Polite=Infm	10	nsubj	_	_
+8	nom	nom	ADJ	_	Polite=Infm	7	amod	_	_
+9	saiki	saiki	ADV	_	Polite=Infm|PronType=Dem	7	advmod	_	_
+10	gelem	gelem	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+11	sinau	sinau	VERB	_	Mood=Ind|Voice=Act	10	xcomp	_	_
+12	maneh	maneh	ADV	_	Polite=Infm	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	mligine	mligi	ADV	_	_	15	advmod	_	_
+15	sujarah	sujarah	NOUN	_	Number=Sing	11	obl	_	_
+16	ing	ing	ADP	_	Polite=Infm	17	case	_	_
+17	Kutha	kutha	PROPN	_	_	15	nmod	_	_
+18	Solo	solo	PROPN	_	_	17	flat:name	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = solopos-2022-122
 # text = Pangajabku kaya mangkono iku.
 # text_id = Harapan saya seperti begitu itu.
 # text_en = My hope is like that.
 1-2	Pangajabku	_	_	_	_	_	_	_	_
-1	Pangajab	_	NOUN	_	Number=Sing	4	nsubj	_	_
-2	ku	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
-3	kaya	_	ADP	_	Polite=Infm	4	case	_	_
-4	mangkono	_	PRON	_	Polite=Infm|PronType=Dem	0	root	_	_
-5	iku	_	DET	_	Polite=Infm|PronType=Dem	4	det	_	SpaceAfter=No
-6	.	_	PUNCT	_	_	4	punct	_	_
+1	Pangajab	pangajab	NOUN	_	Number=Sing	4	nsubj	_	_
+2	ku	ku	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
+3	kaya	kaya	ADP	_	Polite=Infm	4	case	_	_
+4	mangkono	mangkono	PRON	_	Polite=Infm|PronType=Dem	0	root	_	_
+5	iku	iku	DET	_	Polite=Infm|PronType=Dem	4	det	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = solopos-2022-123
 # text = Nalika bocah-bocah nyawang relief iku, kabeh dadi mudeng, oh ndhisik kuwi jebul swasana perang nglawan penjajah kaya mangkono kuwi.
 # text_id = Ketika anak-anak melihat relief itu, semuanya menjadi paham, oh dulu itu ternyata suasana perang melawan penjajah seperti begitu itu.
 # text_en = When the children see the relief, everyone understands, oh the atmosphere of war against the invaders was like that.
-1	Nalika	_	SCONJ	_	Polite=Elev	3	mark	_	_
-2	bocah-bocah	_	NOUN	_	Number=Plur|Polite=Infm	3	nsubj	_	_
-3	nyawang	_	VERB	_	Mood=Ind|Voice=Act	8	advcl	_	_
-4	relief	_	NOUN	_	Number=Sing	3	obj	_	_
-5	iku	_	DET	_	Polite=Infm|PronType=Dem	4	det	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	7	punct	_	_
-7	kabeh	_	PRON	_	Polite=Infm|PronType=Tot	8	nsubj	_	_
-8	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
-9	mudeng	_	VERB	_	Mood=Ind|Voice=Act	8	xcomp	_	SpaceAfter=No
-10	,	_	PUNCT	_	_	11	punct	_	_
-11	oh	_	INTJ	_	_	20	discourse	_	_
-12	ndhisik	_	NOUN	_	Number=Sing|Polite=Infm	20	nmod:tmod	_	_
-13	kuwi	_	DET	_	Polite=Infm|PronType=Dem	12	det	_	_
-14	jebul	_	ADV	_	_	20	advmod	_	_
-15	swasana	_	NOUN	_	Number=Sing	20	nsubj	_	_
-16	perang	_	NOUN	_	Number=Sing	15	nmod	_	_
-17	nglawan	_	VERB	_	Mood=Ind|Voice=Act	16	acl	_	_
-18	penjajah	_	X	_	Foreign=Yes	17	obj	_	_
-19	kaya	_	ADP	_	Polite=Infm	20	case	_	_
-20	mangkono	_	PRON	_	Polite=Infm|PronType=Dem	9	advcl	_	_
-21	kuwi	_	DET	_	Polite=Infm|PronType=Dem	20	det	_	SpaceAfter=No
-22	.	_	PUNCT	_	_	8	punct	_	_
+1	Nalika	nalika	SCONJ	_	Polite=Elev	3	mark	_	_
+2	bocah-bocah	bocah	NOUN	_	Number=Plur|Polite=Infm	3	nsubj	_	_
+3	nyawang	sawang	VERB	_	Mood=Ind|Voice=Act	8	advcl	_	_
+4	relief	relief	NOUN	_	Number=Sing	3	obj	_	_
+5	iku	iku	DET	_	Polite=Infm|PronType=Dem	4	det	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	kabeh	kabeh	PRON	_	Polite=Infm|PronType=Tot	8	nsubj	_	_
+8	dadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
+9	mudeng	mudeng	VERB	_	Mood=Ind|Voice=Act	8	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	oh	oh	INTJ	_	_	20	discourse	_	_
+12	ndhisik	dhisik	NOUN	_	Number=Sing|Polite=Infm	20	nmod:tmod	_	_
+13	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	12	det	_	_
+14	jebul	jebul	ADV	_	_	20	advmod	_	_
+15	swasana	swasana	NOUN	_	Number=Sing	20	nsubj	_	_
+16	perang	perang	NOUN	_	Number=Sing	15	nmod	_	_
+17	nglawan	lawan	VERB	_	Mood=Ind|Voice=Act	16	acl	_	_
+18	penjajah	jajah	X	_	Foreign=Yes	17	obj	_	_
+19	kaya	kaya	ADP	_	Polite=Infm	20	case	_	_
+20	mangkono	mangkono	PRON	_	Polite=Infm|PronType=Dem	9	advcl	_	_
+21	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	20	det	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = solopos-2022-124
 # text = "Apamaneh bocah-bocah senenge sinau kanthi sarana gambar, padha bisa ngangen-angen ana sato kewan, wong tani, lan perang ing abad kaping-18,” ujare Maryani.
 # text_id = “Apalagi, anak-anak sukanya belajar melalui sarana gambar, mereka bisa membayangkan ada sekumpulan binatang, petani, dan perang di abad ke-18,” kata Maryani.
 # text_en = "What's more, children like to learn through pictures, they can imagine animals, farmers, and war in the 18th century," said Maryani.
-1	"	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Apamaneh	_	ADV	_	Polite=Infm	4	advmod	_	_
-3	bocah-bocah	_	NOUN	_	Number=Plur|Polite=Infm	6	nsubj	_	_
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Apamaneh	apamaneh	ADV	_	Polite=Infm	4	advmod	_	_
+3	bocah-bocah	bocah	NOUN	_	Number=Plur|Polite=Infm	6	nsubj	_	_
 4-5	senenge	_	_	_	_	_	_	_	_
-4	seneng	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-5	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	4	det	_	_
-6	sinau	_	VERB	_	Mood=Ind|Voice=Act	4	xcomp	_	_
-7	kanthi	_	ADP	_	Polite=Infm	8	case	_	_
-8	sarana	_	NOUN	_	Number=Sing	6	obl	_	_
-9	gambar	_	NOUN	_	Number=Sing	8	nmod	_	SpaceAfter=No
-10	,	_	PUNCT	_	_	11	punct	_	_
-11	padha	_	ADJ	_	Polite=Infm	13	advmod	_	_
-12	bisa	_	AUX	_	Polite=Infm	13	aux	_	_
-13	ngangen-angen	_	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	_
-14	ana	_	VERB	_	Mood=Ind|Voice=Act	13	ccomp	_	_
-15	sato	_	NOUN	_	Number=Sing	16	nmod	_	_
-16	kewan	_	NOUN	_	Number=Sing	14	nsubj	_	SpaceAfter=No
-17	,	_	PUNCT	_	_	18	punct	_	_
-18	wong	_	NOUN	_	Number=Sing|Polite=Infm	16	conj	_	_
-19	tani	_	NOUN	_	Number=Sing	18	nmod	_	SpaceAfter=No
-20	,	_	PUNCT	_	_	22	punct	_	_
-21	lan	_	CCONJ	_	Polite=Infm	22	cc	_	_
-22	perang	_	NOUN	_	Number=Sing	16	conj	_	_
-23	ing	_	ADP	_	Polite=Infm	24	case	_	_
-24	abad	_	NOUN	_	Number=Sing	22	nmod:tmod	_	_
-25	kaping	_	ADJ	_	NumType=Ord|Polite=Form	24	amod	_	SpaceAfter=No
-26	-	_	PUNCT	_	_	27	punct	_	SpaceAfter=No
-27	18	_	NUM	_	NumType=Card	25	nummod	_	SpaceAfter=No
-28	,	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-29	”	_	PUNCT	_	_	4	punct	_	_
+4	seneng	seneng	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	4	det	_	_
+6	sinau	sinau	VERB	_	Mood=Ind|Voice=Act	4	xcomp	_	_
+7	kanthi	kanthi	ADP	_	Polite=Infm	8	case	_	_
+8	sarana	sarana	NOUN	_	Number=Sing	6	obl	_	_
+9	gambar	gambar	NOUN	_	Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	padha	padha	ADJ	_	Polite=Infm	13	advmod	_	_
+12	bisa	bisa	AUX	_	Polite=Infm	13	aux	_	_
+13	ngangen-angen	angen	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	_
+14	ana	ana	VERB	_	Mood=Ind|Voice=Act	13	ccomp	_	_
+15	sato	sato	NOUN	_	Number=Sing	16	nmod	_	_
+16	kewan	kewan	NOUN	_	Number=Sing	14	nsubj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	wong	wong	NOUN	_	Number=Sing|Polite=Infm	16	conj	_	_
+19	tani	tani	NOUN	_	Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	lan	lan	CCONJ	_	Polite=Infm	22	cc	_	_
+22	perang	perang	NOUN	_	Number=Sing	16	conj	_	_
+23	ing	ing	ADP	_	Polite=Infm	24	case	_	_
+24	abad	abad	NOUN	_	Number=Sing	22	nmod:tmod	_	_
+25	kaping	ping	ADJ	_	NumType=Ord|Polite=Form	24	amod	_	SpaceAfter=No
+26	-	-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	18	18	NUM	_	NumType=Card	25	nummod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
+29	”	"	PUNCT	_	_	4	punct	_	_
 30-31	ujare	_	_	_	_	_	_	_	_
-30	ujar	_	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
-31	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	30	det	_	_
-32	Maryani	_	PROPN	_	_	30	nsubj	_	SpaceAfter=No
-33	.	_	PUNCT	_	_	30	punct	_	_
+30	ujar	ujar	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
+31	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	30	det	_	_
+32	Maryani	maryani	PROPN	_	_	30	nsubj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	30	punct	_	_
 
 # sent_id = solopos-2022-125
 # text = Saka panyawange Solopos.com, relief iku nggambarake saperangan warga pribumi kang nglawan penjajah.
 # text_id = Dari sudut pandang Solopos.com, relief tersebut menggambarkan beberapa masyarakat adat yang berjuang melawan penjajah.
 # text_en = From the point of view of Solopos.com, the relief depicts several indigenous peoples who fought against the invaders.
-1	Saka	_	ADP	_	Polite=Infm	2	case	_	_
+1	Saka	saka	ADP	_	Polite=Infm	2	case	_	_
 2-3	panyawange	_	_	_	_	_	_	_	_
-2	panyawang	_	NOUN	_	Number=Sing	8	obl	_	_
-3	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	2	det	_	_
-4	Solopos.com	_	PROPN	_	_	2	nmod:poss	_	SpaceAfter=No
-5	,	_	PUNCT	_	_	6	punct	_	_
-6	relief	_	NOUN	_	Number=Sing	8	nsubj	_	_
-7	iku	_	DET	_	Polite=Infm|PronType=Dem	6	det	_	_
-8	nggambarake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-9	saperangan	_	DET	_	Number=Plur|PronType=Ind	10	det	_	_
-10	warga	_	NOUN	_	Number=Sing|Polite=Infm	8	obj	_	_
-11	pribumi	_	NOUN	_	Number=Sing	10	nmod	_	_
-12	kang	_	PRON	_	Polite=Infm|PronType=Rel	13	nsubj	_	_
-13	nglawan	_	VERB	_	Mood=Ind|Voice=Act	10	acl:relcl	_	_
-14	penjajah	_	X	_	Foreign=Yes	13	obl	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	8	punct	_	_
+2	panyawang	sawang	NOUN	_	Number=Sing	8	obl	_	_
+3	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	2	det	_	_
+4	Solopos.com	solopos.com	PROPN	_	_	2	nmod:poss	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	relief	relief	NOUN	_	Number=Sing	8	nsubj	_	_
+7	iku	iku	DET	_	Polite=Infm|PronType=Dem	6	det	_	_
+8	nggambarake	gambar	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+9	saperangan	saperangan	DET	_	Number=Plur|PronType=Ind	10	det	_	_
+10	warga	warga	NOUN	_	Number=Sing|Polite=Infm	8	obj	_	_
+11	pribumi	pribumi	NOUN	_	Number=Sing	10	nmod	_	_
+12	kang	kang	PRON	_	Polite=Infm|PronType=Rel	13	nsubj	_	_
+13	nglawan	lawan	VERB	_	Mood=Ind|Voice=Act	10	acl:relcl	_	_
+14	penjajah	jajah	X	_	Foreign=Yes	13	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = solopos-2022-126
 # text = Penjajah jroning gambaran iku nyandhang kostum prejurit nganggo topi.
 # text_id = Penjajah dalam gambar mengenakan kostum prajurit dengan topi.
 # text_en = The invader in the picture is wearing a warrior costume with a hat.
-1	Penjajah	_	NOUN	_	Number=Sing	5	nsubj	_	_
-2	jroning	_	ADP	_	_	3	case	_	_
-3	gambaran	_	NOUN	_	Number=Sing	1	nmod	_	_
-4	iku	_	DET	_	Polite=Infm|PronType=Dem	3	det	_	_
-5	nyandhang	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-6	kostum	_	NOUN	_	Number=Sing	5	obj	_	_
-7	prejurit	_	NOUN	_	Number=Sing	6	nmod	_	_
-8	nganggo	_	VERB	_	Mood=Ind|Voice=Act	7	acl	_	_
-9	topi	_	NOUN	_	Number=Sing	8	obj	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	5	punct	_	_
+1	Penjajah	jajah	NOUN	_	Number=Sing	5	nsubj	_	_
+2	jroning	jero	ADP	_	_	3	case	_	_
+3	gambaran	gambar	NOUN	_	Number=Sing	1	nmod	_	_
+4	iku	iku	DET	_	Polite=Infm|PronType=Dem	3	det	_	_
+5	nyandhang	sandhang	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	kostum	kostum	NOUN	_	Number=Sing	5	obj	_	_
+7	prejurit	prejurit	NOUN	_	Number=Sing	6	nmod	_	_
+8	nganggo	anggo	VERB	_	Mood=Ind|Voice=Act	7	acl	_	_
+9	topi	topi	NOUN	_	Number=Sing	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = solopos-2022-127
 # text = Dene pribumi digambarake nganggo busana adat Jawa lengen dawa, clana ukuran seprapat lan nganggo blangkon (kanggo wong lanang) lan kebaya (kanggo wong wadon).
